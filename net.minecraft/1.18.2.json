@@ -404,17 +404,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "d0a4d6f3c6ba2232b7e1ac4223f8a93741c8e47a",
-                "size": 20254185,
-                "url": "https://launcher.mojang.com/v1/objects/d0a4d6f3c6ba2232b7e1ac4223f8a93741c8e47a/client.jar"
+                "sha1": "2e9a3e3107cca00d6bc9c97bf7d149cae163ef21",
+                "size": 20259661,
+                "url": "https://launcher.mojang.com/v1/objects/2e9a3e3107cca00d6bc9c97bf7d149cae163ef21/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.18.2-pre2:client"
+        "name": "com.mojang:minecraft:1.18.2:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-02-21T15:26:19+00:00",
+    "releaseTime": "2022-02-28T10:42:45+00:00",
     "requires": [
         {
             "equals": "3.2.2",
@@ -422,7 +422,7 @@
             "uid": "org.lwjgl3"
         }
     ],
-    "type": "snapshot",
+    "type": "release",
     "uid": "net.minecraft",
-    "version": "1.18.2-pre2"
+    "version": "1.18.2"
 }
