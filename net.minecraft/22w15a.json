@@ -195,12 +195,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "0a02c43824ce57c3f7a7d7e744f0d99a040398b5",
-                    "size": 672957,
-                    "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/4.1.27/datafixerupper-4.1.27.jar"
+                    "sha1": "e2157e236e529aff80a5fc3ccb506e56d46b130b",
+                    "size": 684966,
+                    "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/5.0.28/datafixerupper-5.0.28.jar"
                 }
             },
-            "name": "com.mojang:datafixerupper:4.1.27"
+            "name": "com.mojang:datafixerupper:5.0.28"
         },
         {
             "downloads": {
@@ -361,17 +361,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "9638f6997fd59545585242eadab1e5039356e77a",
-                "size": 20790146,
-                "url": "https://launcher.mojang.com/v1/objects/9638f6997fd59545585242eadab1e5039356e77a/client.jar"
+                "sha1": "b5b14c791de1b44ce2d6de13dfd18b9ced843618",
+                "size": 21254897,
+                "url": "https://launcher.mojang.com/v1/objects/b5b14c791de1b44ce2d6de13dfd18b9ced843618/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:22w12a:client"
+        "name": "com.mojang:minecraft:22w15a:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-03-24T16:15:02+00:00",
+    "releaseTime": "2022-04-13T15:41:17+00:00",
     "requires": [
         {
             "equals": "3.2.2",
@@ -381,5 +381,5 @@
     ],
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "22w12a"
+    "version": "22w15a"
 }

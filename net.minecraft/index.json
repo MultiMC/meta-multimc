@@ -4,6 +4,19 @@
     "uid": "net.minecraft",
     "versions": [
         {
+            "releaseTime": "2022-04-13T15:41:17+00:00",
+            "requires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a0736081700cff793f27cfd28d1f7bc19918a9a612822af737a0311b822a7aa4",
+            "type": "snapshot",
+            "version": "22w15a"
+        },
+        {
             "releaseTime": "2022-04-06T13:37:12+00:00",
             "requires": [
                 {
@@ -12,7 +25,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "faea0e07bc122c1a3655020cf84965a2e6f4555725831e475ba042c0d6381365",
+            "sha256": "82a690d650550683c4268273423ff33b8e1d72d71ebd9f17caa66c5637b10e21",
             "type": "snapshot",
             "version": "22w14a"
         },
@@ -25,7 +38,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "101ab30d92de21cfeb1dc3f11fc8e87ed0c780ff5470f8a571369b17ef4e4a22",
+            "sha256": "095037b07e11545ef7f3bca6eabc42d6b0946d614cfa4615773e917b4c5bf3e0",
             "type": "snapshot",
             "version": "22w13oneblockatatime"
         },
@@ -38,7 +51,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "80f705cf56419fa801da5a53e6373260986385273577100bb69f59e9e9a4ce73",
+            "sha256": "5e2d50b6c4972d6f0f909badc6b12cc14439f816f9c960506504cf40686a18b1",
             "type": "snapshot",
             "version": "22w13a"
         },
@@ -51,7 +64,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "7cc23270baa4d4af42b973a38844a2be709b880b44f61f138e009f105fab1ebe",
+            "sha256": "ca8a8b670b2c25dd5d248bd12b8f9a2e2c9f49f4b0d91b7e3d17eba8bd582bf1",
             "type": "snapshot",
             "version": "22w12a"
         },
@@ -64,7 +77,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "23a15c95490f51cd90a70b0d60dc535cb6333e219f4bc8e77f9dffdf785e768a",
+            "sha256": "4e1825663deafccfd3b63b68a07bf28437108116c7083cd828ff6a8c4a6b7052",
             "type": "snapshot",
             "version": "22w11a"
         },
