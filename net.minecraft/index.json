@@ -1318,6 +1318,19 @@
             "version": "1.16_combat-5"
         },
         {
+            "releaseTime": "2020-08-19T11:14:58+00:00",
+            "requires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "f38bf24718861effb151dce99e8d2f4a86d1d4481b5a78fcd2630dbbb2e20b57",
+            "type": "experiment",
+            "version": "1.16_combat-4"
+        },
+        {
             "releaseTime": "2020-08-14T09:02:15+00:00",
             "requires": [
                 {
@@ -1329,6 +1342,32 @@
             "sha256": "c09e56724c98f0de05a6fd7ae3637872cc80064c4c1238b624019a53915b72f9",
             "type": "experiment",
             "version": "1.16_combat-3"
+        },
+        {
+            "releaseTime": "2020-08-13T11:56:30+00:00",
+            "requires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "7689ee078a79bd035da0c19800d935e0d524f79202a77d57fa93d175fba49816",
+            "type": "experiment",
+            "version": "1.16_combat-2"
+        },
+        {
+            "releaseTime": "2020-08-12T14:07:25+00:00",
+            "requires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "74cae2a2a279f5f8a020fe7ea14005f3b33b525c78034a91c28b84a15d123449",
+            "type": "experiment",
+            "version": "1.16_combat-1"
         },
         {
             "releaseTime": "2020-08-11T10:13:46+00:00",
