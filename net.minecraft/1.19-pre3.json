@@ -204,18 +204,39 @@
         },
         {
             "downloads": {
-                "classifiers": {
-                    "linux-x86_64": {
-                        "sha1": "e1ee2a9c5f63b1b71260caf127a1e50667d62854",
-                        "size": 37058,
-                        "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.76.Final/netty-transport-native-epoll-4.1.76.Final-linux-x86_64.jar"
-                    }
+                "artifact": {
+                    "sha1": "e1ee2a9c5f63b1b71260caf127a1e50667d62854",
+                    "size": 37058,
+                    "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.76.Final/netty-transport-native-epoll-4.1.76.Final-linux-x86_64.jar"
                 }
             },
-            "name": "io.netty:netty-transport-native-epoll:4.1.76.Final",
-            "natives": {
-                "linux": "linux-x86_64"
-            }
+            "name": "io.netty:netty-transport-native-epoll:4.1.76.Final:linux-x86_64",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "32d6588c00f4d8d9205a47ff31996a44a8563a5a",
+                    "size": 38438,
+                    "url": "https://libraries.minecraft.net/io/netty/netty-transport-native-epoll/4.1.76.Final/netty-transport-native-epoll-4.1.76.Final-linux-aarch_64.jar"
+                }
+            },
+            "name": "io.netty:netty-transport-native-epoll:4.1.76.Final:linux-aarch_64",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -300,12 +321,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "1d7c548831adb3d7925ecfebd3ba384f9f626948",
-                    "size": 102338,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.4.40/authlib-3.4.40.jar"
+                    "sha1": "9e05cb6a5f3504235a190ad11ea8981b2cbb901e",
+                    "size": 104806,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.5.41/authlib-3.5.41.jar"
                 }
             },
-            "name": "com.mojang:authlib:3.4.40"
+            "name": "com.mojang:authlib:3.5.41"
         },
         {
             "downloads": {
@@ -390,33 +411,38 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "5f4e3a6ef86cb021f7ca87ca192cddb50c26eb59",
-                    "size": 12123,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9.jar"
-                },
-                "classifiers": {
-                    "natives-linux": {
-                        "sha1": "6c63ecb3b6408dcfdde6440c9ee62c060542af33",
-                        "size": 7833,
-                        "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-linux.jar"
-                    },
-                    "natives-windows": {
-                        "sha1": "7a90898b29e5c72f90ba6ebe86fa78a6afd7d3eb",
-                        "size": 81379,
-                        "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-windows.jar"
-                    }
+                    "sha1": "7a90898b29e5c72f90ba6ebe86fa78a6afd7d3eb",
+                    "size": 81379,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-windows.jar"
                 }
             },
-            "extract": {
-                "exclude": [
-                    "META-INF/"
-                ]
+            "name": "com.mojang:text2speech:1.13.9:natives-windows",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "windows"
+                    }
+                }
+            ]
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "6c63ecb3b6408dcfdde6440c9ee62c060542af33",
+                    "size": 7833,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.13.9/text2speech-1.13.9-natives-linux.jar"
+                }
             },
-            "name": "com.mojang:text2speech:1.13.9",
-            "natives": {
-                "linux": "natives-linux",
-                "windows": "natives-windows"
-            }
+            "name": "com.mojang:text2speech:1.13.9:natives-linux",
+            "rules": [
+                {
+                    "action": "allow",
+                    "os": {
+                        "name": "linux"
+                    }
+                }
+            ]
         },
         {
             "downloads": {
@@ -441,17 +467,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "85ab5e9725b6fa8078c6bd9df2697221fbe34b40",
-                "size": 21377069,
-                "url": "https://launcher.mojang.com/v1/objects/85ab5e9725b6fa8078c6bd9df2697221fbe34b40/client.jar"
+                "sha1": "6dbfb4ceafd85dd01297c4d39fd26fe6c8452ba8",
+                "size": 21459776,
+                "url": "https://launcher.mojang.com/v1/objects/6dbfb4ceafd85dd01297c4d39fd26fe6c8452ba8/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:22w18a:client"
+        "name": "com.mojang:minecraft:1.19-pre3:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-05-04T14:41:35+00:00",
+    "releaseTime": "2022-05-25T09:56:47+00:00",
     "requires": [
         {
             "equals": "3.3.1",
@@ -461,5 +487,5 @@
     ],
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "22w18a"
+    "version": "1.19-pre3"
 }
