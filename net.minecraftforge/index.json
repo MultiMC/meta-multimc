@@ -4,6 +4,17 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "releaseTime": "2022-06-14T23:43:14+00:00",
+            "requires": [
+                {
+                    "equals": "1.19",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "addcef78f6932d628dbdee4269f8904c8ee1e748edd2c8fea433eccf61229e6e",
+            "version": "41.0.29"
+        },
+        {
             "releaseTime": "2022-06-14T22:12:49+00:00",
             "requires": [
                 {
