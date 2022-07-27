@@ -321,12 +321,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "faf33dd9bdb018b3a9b2813ccdf81712f4349aca",
-                    "size": 116479,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.9.47/authlib-3.9.47.jar"
+                    "sha1": "2e3055ec2a017c7f94b79744b4a68b65695a118c",
+                    "size": 120100,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.11.49/authlib-3.11.49.jar"
                 }
             },
-            "name": "com.mojang:authlib:3.9.47"
+            "name": "com.mojang:authlib:3.11.49"
         },
         {
             "downloads": {
@@ -467,17 +467,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "a59deea8e776ec62beb46a5ee47580896bcc3b66",
-                "size": 21564222,
-                "url": "https://piston-data.mojang.com/v1/objects/a59deea8e776ec62beb46a5ee47580896bcc3b66/client.jar"
+                "sha1": "90d438c3e432add8848a9f9f368ce5a52f6bc4a7",
+                "size": 21643604,
+                "url": "https://piston-data.mojang.com/v1/objects/90d438c3e432add8848a9f9f368ce5a52f6bc4a7/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.19.1-pre2:client"
+        "name": "com.mojang:minecraft:1.19.1:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-06-30T15:57:20+00:00",
+    "releaseTime": "2022-07-27T09:25:33+00:00",
     "requires": [
         {
             "equals": "3.3.1",
@@ -485,7 +485,7 @@
             "uid": "org.lwjgl3"
         }
     ],
-    "type": "snapshot",
+    "type": "release",
     "uid": "net.minecraft",
-    "version": "1.19.1-pre2"
+    "version": "1.19.1"
 }
