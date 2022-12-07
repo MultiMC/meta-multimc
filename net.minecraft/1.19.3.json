@@ -477,17 +477,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "0f37b64668c8b2e54d12bd13138f8ca874f92270",
-                "size": 22702990,
-                "url": "https://piston-data.mojang.com/v1/objects/0f37b64668c8b2e54d12bd13138f8ca874f92270/client.jar"
+                "sha1": "977727ec9ab8b4631e5c12839f064092f17663f8",
+                "size": 22704188,
+                "url": "https://piston-data.mojang.com/v1/objects/977727ec9ab8b4631e5c12839f064092f17663f8/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.19.3-rc1:client"
+        "name": "com.mojang:minecraft:1.19.3:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2022-12-01T13:45:18+00:00",
+    "releaseTime": "2022-12-07T08:17:18+00:00",
     "requires": [
         {
             "equals": "3.3.1",
@@ -495,7 +495,7 @@
             "uid": "org.lwjgl3"
         }
     ],
-    "type": "snapshot",
+    "type": "release",
     "uid": "net.minecraft",
-    "version": "1.19.3-rc1"
+    "version": "1.19.3"
 }
