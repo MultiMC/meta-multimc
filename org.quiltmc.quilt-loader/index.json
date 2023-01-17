@@ -4,6 +4,28 @@
     "uid": "org.quiltmc.quilt-loader",
     "versions": [
         {
+            "releaseTime": "2023-01-16T23:38:14+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "10dbf6ad614cd154953498a60911a8a4c7a728e7f8df3ce20d777342e29448ae",
+            "type": "snapshot",
+            "version": "0.18.1-beta.43"
+        },
+        {
+            "releaseTime": "2023-01-16T22:44:20+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "f3f6cb6947490307ffeb3bcd46807eab66b3e32158eaa41ff156dff88b31b951",
+            "type": "snapshot",
+            "version": "0.18.1-beta.42"
+        },
+        {
             "releaseTime": "2023-01-15T04:42:30+00:00",
             "requires": [
                 {
