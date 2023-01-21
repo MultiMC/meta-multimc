@@ -4,6 +4,50 @@
     "uid": "org.quiltmc.quilt-loader",
     "versions": [
         {
+            "releaseTime": "2023-01-21T06:05:50+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "92e58fe8296f920a53ee0b5218b2cfa5fd7578a30a859dfc769b633bf9705a8b",
+            "type": "snapshot",
+            "version": "0.18.1-beta.53"
+        },
+        {
+            "releaseTime": "2023-01-21T05:30:24+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "6b9f68beb7d40fc5085c7c1b15a67783b654314b9813ec594e73f37a2f200722",
+            "type": "snapshot",
+            "version": "0.18.1-beta.52"
+        },
+        {
+            "releaseTime": "2023-01-21T04:47:00+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "276280d4a5c381fa0d2e922e31b3f3c1ce4f3ac303b8b1216b2ad4803adebc65",
+            "type": "snapshot",
+            "version": "0.18.1-beta.51"
+        },
+        {
+            "releaseTime": "2023-01-21T03:16:40+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "202a7b34796076dd679cc9d787fb13d1d80452b14ba50af66dda702bc0ae1237",
+            "type": "snapshot",
+            "version": "0.18.1-beta.50"
+        },
+        {
             "releaseTime": "2023-01-20T03:09:56+00:00",
             "requires": [
                 {
