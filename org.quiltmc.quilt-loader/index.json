@@ -4,6 +4,61 @@
     "uid": "org.quiltmc.quilt-loader",
     "versions": [
         {
+            "releaseTime": "2023-01-22T02:27:08+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "a3b45f18bd78210cb0ac798b07c2a07e6faf9c6b03015d1189845b8db0eb7b5a",
+            "type": "snapshot",
+            "version": "0.18.1-beta.58"
+        },
+        {
+            "releaseTime": "2023-01-22T01:12:14+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "df95bfaf654e805bb3fd93f5f906eed1a0eaf566384839a3151f3e1995614606",
+            "type": "snapshot",
+            "version": "0.18.1-beta.57"
+        },
+        {
+            "releaseTime": "2023-01-22T00:28:28+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "6c4c17666aa3717854eed660dbebbd6d2824073bb1c057c369daf044a20e71cd",
+            "type": "snapshot",
+            "version": "0.18.1-beta.56"
+        },
+        {
+            "releaseTime": "2023-01-21T23:21:20+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "05db8dee6bfd50057e9319348dad68d5200764c87765d17759d05be384a59116",
+            "type": "snapshot",
+            "version": "0.18.1-beta.55"
+        },
+        {
+            "releaseTime": "2023-01-21T22:46:46+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "16afdc1636eed7c574622b435fd7c009f0021e84216bced722ed9b73634608ef",
+            "type": "snapshot",
+            "version": "0.18.1-beta.54"
+        },
+        {
             "releaseTime": "2023-01-21T06:05:50+00:00",
             "requires": [
                 {
