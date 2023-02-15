@@ -4,6 +4,17 @@
     "uid": "org.quiltmc.quilt-loader",
     "versions": [
         {
+            "releaseTime": "2023-02-15T01:46:26+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "87d31be4f7908383278afecffd7f96622839d1bd69f3bd209a032ded8183173b",
+            "type": "snapshot",
+            "version": "0.18.1-beta.77"
+        },
+        {
             "releaseTime": "2023-02-14T23:10:10+00:00",
             "requires": [
                 {
