@@ -4,6 +4,28 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "releaseTime": "2023-03-20T08:04:28+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c0fd6a12be77f553968c56b2afe109972c678046488747da9237df77c1b58da9",
+            "version": "45.0.13"
+        },
+        {
+            "releaseTime": "2023-03-20T07:50:29+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "bcfbb5d4f6d4ef67b47165737261b001aa2a3bec11942cd18796f0196d335429",
+            "version": "45.0.12"
+        },
+        {
             "releaseTime": "2023-03-20T07:10:07+00:00",
             "requires": [
                 {
