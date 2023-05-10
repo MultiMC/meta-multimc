@@ -4,11 +4,11 @@
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
-        "id": "3",
-        "sha1": "2ce25874b2c80b93af26584c88be8161821b18ce",
-        "size": 409894,
-        "totalSize": 557970569,
-        "url": "https://piston-meta.mojang.com/v1/packages/2ce25874b2c80b93af26584c88be8161821b18ce/3.json"
+        "id": "5",
+        "sha1": "3d9e16c18f36a8c565641583e48af3cb33315dfc",
+        "size": 410886,
+        "totalSize": 615044172,
+        "url": "https://piston-meta.mojang.com/v1/packages/3d9e16c18f36a8c565641583e48af3cb33315dfc/5.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -83,12 +83,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "016106b26bce62bda55bab42785b999e44d77ecb",
-                    "size": 118354,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/3.18.38/authlib-3.18.38.jar"
+                    "sha1": "3381044d57a291a541ca0836b0119abe063acb93",
+                    "size": 121603,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/4.0.42/authlib-4.0.42.jar"
                 }
             },
-            "name": "com.mojang:authlib:3.18.38"
+            "name": "com.mojang:authlib:4.0.42"
         },
         {
             "downloads": {
@@ -103,12 +103,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "c1ef1234282716483c92183f49bef47b1a89bfa9",
-                    "size": 77116,
-                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.0.18/brigadier-1.0.18.jar"
+                    "sha1": "5244ce82c3337bba4a196a3ce858bfaecc74404a",
+                    "size": 77121,
+                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar"
                 }
             },
-            "name": "com.mojang:brigadier:1.0.18"
+            "name": "com.mojang:brigadier:1.1.8"
         },
         {
             "downloads": {
@@ -143,12 +143,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "ee4095669061d1fe4bce5fea23d69d1520bc2d58",
-                    "size": 12279,
-                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.16.7/text2speech-1.16.7.jar"
+                    "sha1": "01b3a7718bbdad624537597ff3ca38a0f232df87",
+                    "size": 12238,
+                    "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.16.8/text2speech-1.16.8.jar"
                 }
             },
-            "name": "com.mojang:text2speech:1.16.7"
+            "name": "com.mojang:text2speech:1.16.8"
         },
         {
             "downloads": {
@@ -431,17 +431,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "8ebf103ef3c48ff40d4d002f44c5f7bc5d90e7e2",
-                "size": 24579431,
-                "url": "https://piston-data.mojang.com/v1/objects/8ebf103ef3c48ff40d4d002f44c5f7bc5d90e7e2/client.jar"
+                "sha1": "07dfbe4c383c4bb6d26254e49c0fce5398bab5b5",
+                "size": 23679158,
+                "url": "https://piston-data.mojang.com/v1/objects/07dfbe4c383c4bb6d26254e49c0fce5398bab5b5/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:23w13a_or_b:client"
+        "name": "com.mojang:minecraft:1.20-pre1:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2023-04-01T12:52:18+00:00",
+    "releaseTime": "2023-05-10T12:19:34+00:00",
     "requires": [
         {
             "equals": "3.3.1",
@@ -451,5 +451,5 @@
     ],
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "23w13a_or_b"
+    "version": "1.20-pre1"
 }
