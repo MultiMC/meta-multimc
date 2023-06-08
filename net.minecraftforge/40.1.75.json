@@ -290,8 +290,13 @@
     "mainClass": "io.github.zekerzhayard.forgewrapper.installer.Main",
     "mavenFiles": [
         {
-            "MMC-absoluteUrl": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.75/forge-1.18.2-40.1.75-installer.jar",
-            "downloads": {},
+            "downloads": {
+                "artifact": {
+                    "sha1": "ae161186441ed695a4c4d5fb75d294fa181c08ad",
+                    "size": 6645607,
+                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.75/forge-1.18.2-40.1.75-installer.jar"
+                }
+            },
             "name": "net.minecraftforge:forge:1.18.2-40.1.75:installer"
         },
         {
