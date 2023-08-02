@@ -4,11 +4,11 @@
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
-        "id": "5",
-        "sha1": "38b21373c374be43d150bd00709f7c5abf480028",
+        "id": "6",
+        "sha1": "a018862510a898d6b5738423b21c6d51324d57a9",
         "size": 411581,
-        "totalSize": 617719141,
-        "url": "https://piston-meta.mojang.com/v1/packages/38b21373c374be43d150bd00709f7c5abf480028/5.json"
+        "totalSize": 617688250,
+        "url": "https://piston-meta.mojang.com/v1/packages/a018862510a898d6b5738423b21c6d51324d57a9/6.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -83,12 +83,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "2ff9d747a77570a07a60d32ac77eb6162ad2a2d9",
-                    "size": 121766,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/4.0.43/authlib-4.0.43.jar"
+                    "sha1": "6edd522df1fc0ec7e16fdddf9cf90c0a1f9c2d7c",
+                    "size": 106671,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/5.0.46/authlib-5.0.46.jar"
                 }
             },
-            "name": "com.mojang:authlib:4.0.43"
+            "name": "com.mojang:authlib:5.0.46"
         },
         {
             "downloads": {
@@ -431,17 +431,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "19b2f3e69f26e6a8763bf6489cf8220a83693fbb",
-                "size": 23028138,
-                "url": "https://piston-data.mojang.com/v1/objects/19b2f3e69f26e6a8763bf6489cf8220a83693fbb/client.jar"
+                "sha1": "ca51bf36913a7333c055096a52a3a96fbdb11813",
+                "size": 23069961,
+                "url": "https://piston-data.mojang.com/v1/objects/ca51bf36913a7333c055096a52a3a96fbdb11813/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.20-rc1:client"
+        "name": "com.mojang:minecraft:23w31a:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
     "order": -2,
-    "releaseTime": "2023-05-31T12:33:33+00:00",
+    "releaseTime": "2023-08-01T10:03:13+00:00",
     "requires": [
         {
             "equals": "3.3.1",
@@ -451,5 +451,5 @@
     ],
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.20-rc1"
+    "version": "23w31a"
 }
