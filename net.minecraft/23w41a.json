@@ -111,13 +111,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar",
-                    "sha1": "5244ce82c3337bba4a196a3ce858bfaecc74404a",
-                    "size": 77121,
-                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar"
+                    "path": "com/mojang/brigadier/1.2.9/brigadier-1.2.9.jar",
+                    "sha1": "73e324f2ee541493a5179abf367237faa782ed21",
+                    "size": 79955,
+                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.2.9/brigadier-1.2.9.jar"
                 }
             },
-            "name": "com.mojang:brigadier:1.1.8"
+            "name": "com.mojang:brigadier:1.2.9"
         },
         {
             "downloads": {
@@ -1345,17 +1345,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "a25038f82a1021ca8961eb78e4a8874652741cfd",
-                "size": 23186179,
-                "url": "https://piston-data.mojang.com/v1/objects/a25038f82a1021ca8961eb78e4a8874652741cfd/client.jar"
+                "sha1": "da1852dc65305e01db8262bad7450eddca55a5d0",
+                "size": 23393725,
+                "url": "https://piston-data.mojang.com/v1/objects/da1852dc65305e01db8262bad7450eddca55a5d0/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.20.2-rc1:client"
+        "name": "com.mojang:minecraft:23w41a:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2023-09-15T13:10:30+00:00",
+    "releaseTime": "2023-10-11T12:32:46+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.20.2-rc1"
+    "version": "23w41a"
 }
