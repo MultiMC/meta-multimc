@@ -4,11 +4,11 @@
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
-        "id": "8",
-        "sha1": "9a2a12d3e921918fea585aab68075d52fad75307",
-        "size": 415466,
-        "totalSize": 621937586,
-        "url": "https://piston-meta.mojang.com/v1/packages/9a2a12d3e921918fea585aab68075d52fad75307/8.json"
+        "id": "12",
+        "sha1": "4f406cd2d318177e8db8c4eb237713d56b274224",
+        "size": 426900,
+        "totalSize": 623855327,
+        "url": "https://piston-meta.mojang.com/v1/packages/4f406cd2d318177e8db8c4eb237713d56b274224/12.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -89,13 +89,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/authlib/5.0.47/authlib-5.0.47.jar",
-                    "sha1": "ff7fd2e80a767f6c369fa2065f018ba21d153cbd",
-                    "size": 111087,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/5.0.47/authlib-5.0.47.jar"
+                    "path": "com/mojang/authlib/5.0.51/authlib-5.0.51.jar",
+                    "sha1": "83c235be98157238ce6ebec8d6454ef94507360e",
+                    "size": 114272,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/5.0.51/authlib-5.0.51.jar"
                 }
             },
-            "name": "com.mojang:authlib:5.0.47"
+            "name": "com.mojang:authlib:5.0.51"
         },
         {
             "downloads": {
@@ -111,13 +111,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar",
-                    "sha1": "5244ce82c3337bba4a196a3ce858bfaecc74404a",
-                    "size": 77121,
-                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar"
+                    "path": "com/mojang/brigadier/1.2.9/brigadier-1.2.9.jar",
+                    "sha1": "73e324f2ee541493a5179abf367237faa782ed21",
+                    "size": 79955,
+                    "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.2.9/brigadier-1.2.9.jar"
                 }
             },
-            "name": "com.mojang:brigadier:1.1.8"
+            "name": "com.mojang:brigadier:1.2.9"
         },
         {
             "downloads": {
@@ -1345,17 +1345,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "b04c6a6bd4c7360779f32571058452198136d805",
-                "size": 23184371,
-                "url": "https://piston-data.mojang.com/v1/objects/b04c6a6bd4c7360779f32571058452198136d805/client.jar"
+                "sha1": "6d2514a107afa3be0abeba720e2f96defab9310f",
+                "size": 24427960,
+                "url": "https://piston-data.mojang.com/v1/objects/6d2514a107afa3be0abeba720e2f96defab9310f/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.20.2-pre3:client"
+        "name": "com.mojang:minecraft:1.20.3-pre1:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2023-09-12T12:15:08+00:00",
+    "releaseTime": "2023-11-20T15:40:14+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.20.2-pre3"
+    "version": "1.20.3-pre1"
 }
