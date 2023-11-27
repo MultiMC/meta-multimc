@@ -4,11 +4,11 @@
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
-        "id": "9",
-        "sha1": "d2e4597da2cbd935dbb639a9bb5dae832ff60a46",
-        "size": 415466,
-        "totalSize": 621980960,
-        "url": "https://piston-meta.mojang.com/v1/packages/d2e4597da2cbd935dbb639a9bb5dae832ff60a46/9.json"
+        "id": "12",
+        "sha1": "e4b5eae457c8a5296d89119e1119dd82ef4beb74",
+        "size": 426900,
+        "totalSize": 623898701,
+        "url": "https://piston-meta.mojang.com/v1/packages/e4b5eae457c8a5296d89119e1119dd82ef4beb74/12.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -89,13 +89,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/authlib/5.0.50/authlib-5.0.50.jar",
-                    "sha1": "f4f0aa82ab732cabd30198e3612b17eb999b8003",
-                    "size": 114199,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/5.0.50/authlib-5.0.50.jar"
+                    "path": "com/mojang/authlib/6.0.52/authlib-6.0.52.jar",
+                    "sha1": "65085e2eb921c4a3ebdde3d248637f1776e6d80d",
+                    "size": 115471,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/6.0.52/authlib-6.0.52.jar"
                 }
             },
-            "name": "com.mojang:authlib:5.0.50"
+            "name": "com.mojang:authlib:6.0.52"
         },
         {
             "downloads": {
@@ -1345,17 +1345,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "f187037d38f503ede8c593521b4ea33ce27d2373",
-                "size": 24081351,
-                "url": "https://piston-data.mojang.com/v1/objects/f187037d38f503ede8c593521b4ea33ce27d2373/client.jar"
+                "sha1": "676fa8b87075aa62bee8e3e70fbd0524a06c5621",
+                "size": 24445325,
+                "url": "https://piston-data.mojang.com/v1/objects/676fa8b87075aa62bee8e3e70fbd0524a06c5621/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:23w42a:client"
+        "name": "com.mojang:minecraft:1.20.3-pre3:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2023-10-18T11:37:28+00:00",
+    "releaseTime": "2023-11-27T14:24:36+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "23w42a"
+    "version": "1.20.3-pre3"
 }
