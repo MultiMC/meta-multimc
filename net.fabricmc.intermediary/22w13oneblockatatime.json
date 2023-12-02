@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:22w13oneblockatatime",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "98314d8a996a4c6233994df0d61f41cc7a71d8c6",
+                    "size": 484626,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/22w13oneblockatatime/intermediary-22w13oneblockatatime.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:22w13oneblockatatime"
         }
     ],
     "name": "Intermediary Mappings",

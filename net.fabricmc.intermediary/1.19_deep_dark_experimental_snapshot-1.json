@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "bd18f18787c18faac518475f7e885dbc95cc3c93",
+                    "size": 479877,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.19_deep_dark_experimental_snapshot-1/intermediary-1.19_deep_dark_experimental_snapshot-1.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:1.19_deep_dark_experimental_snapshot-1"
         }
     ],
     "name": "Intermediary Mappings",

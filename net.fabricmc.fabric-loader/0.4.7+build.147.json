@@ -42,8 +42,14 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
-            "name": "net.fabricmc:fabric-loader:0.4.7+build.147",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "aa5bf0b9e70cc8c1dae42cbc83d8362d5e364649",
+                    "size": 232773,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.4.7+build.147/fabric-loader-0.4.7+build.147.jar"
+                }
+            },
+            "name": "net.fabricmc:fabric-loader:0.4.7+build.147"
         }
     ],
     "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",

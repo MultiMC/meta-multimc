@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:1.14_combat-0",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "5dd6958cd8c516656db1a669b4e0b03e115772b8",
+                    "size": 337063,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.14_combat-0/intermediary-1.14_combat-0.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:1.14_combat-0"
         }
     ],
     "name": "Intermediary Mappings",

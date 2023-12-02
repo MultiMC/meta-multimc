@@ -33,8 +33,14 @@
             "url": "http://repo.maven.apache.org/maven2/"
         },
         {
-            "name": "net.fabricmc:fabric-loader:0.2.0.69",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "f7f7e9cfb9545729da4bf24bd3fa1e0928f93465",
+                    "size": 70838,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.2.0.69/fabric-loader-0.2.0.69.jar"
+                }
+            },
+            "name": "net.fabricmc:fabric-loader:0.2.0.69"
         }
     ],
     "mainClass": "net.minecraft.launchwrapper.Launch",

@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:20w14infinite",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "6713f7af418cb6fd128401d57db233af84f714da",
+                    "size": 372126,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/20w14infinite/intermediary-20w14infinite.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:20w14infinite"
         }
     ],
     "name": "Intermediary Mappings",

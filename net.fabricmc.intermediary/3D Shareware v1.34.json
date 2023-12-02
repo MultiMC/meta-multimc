@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:3D Shareware v1.34",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "cd64260fce2c40053182d8e8fe4d81bf516963ce",
+                    "size": 314780,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/3D Shareware v1.34/intermediary-3D Shareware v1.34.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:3D Shareware v1.34"
         }
     ],
     "name": "Intermediary Mappings",

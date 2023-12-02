@@ -2,8 +2,14 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "net.fabricmc:intermediary:20w27a",
-            "url": "https://maven.fabricmc.net"
+            "downloads": {
+                "artifact": {
+                    "sha1": "f955d3afee8f81567a627036e97ac8656f78f453",
+                    "size": 397509,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/20w27a/intermediary-20w27a.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:20w27a"
         }
     ],
     "name": "Intermediary Mappings",
