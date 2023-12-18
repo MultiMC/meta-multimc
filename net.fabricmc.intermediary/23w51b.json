@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "51fcb9b8e42c842bb97a34fef63be44f7cfc9944",
+                    "size": 610383,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/23w51b/intermediary-23w51b.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:23w51b"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2023-12-18T16:30:32+00:00",
+    "requires": [
+        {
+            "equals": "23w51b",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "23w51b",
+    "volatile": true
+}
