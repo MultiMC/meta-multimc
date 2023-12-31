@@ -4,6 +4,50 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "releaseTime": "2023-12-31T16:11:12+00:00",
+            "requires": [
+                {
+                    "equals": "1.18.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0646ad6d46b0a94cc3279760b1cd74c026dd743e426724d8e51410813314ea1c",
+            "version": "40.2.17"
+        },
+        {
+            "releaseTime": "2023-12-31T15:45:42+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a1f71ee7086c269e83a6d22a9ad190cf227742a89a8e15e22fe610cc24fcf357",
+            "version": "43.3.7"
+        },
+        {
+            "releaseTime": "2023-12-31T15:45:29+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "7019239a3573ac100ec2c0c42dfc72f8f15ab3d6a5e12ec218d71a3c6f4f1b30",
+            "version": "45.2.8"
+        },
+        {
+            "releaseTime": "2023-12-30T21:46:45+00:00",
+            "requires": [
+                {
+                    "equals": "1.18.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f05e4bfe6ffcbbc4f760277bf098514b1652afbc5dbeb94b6ebc422da4c81573",
+            "version": "40.2.15"
+        },
+        {
             "releaseTime": "2023-12-30T21:24:51+00:00",
             "requires": [
                 {
