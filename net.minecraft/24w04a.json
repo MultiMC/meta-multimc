@@ -1457,6 +1457,17 @@
         {
             "downloads": {
                 "artifact": {
+                    "path": "org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar",
+                    "sha1": "4b986a99445e49ea5fbf5d149c4b63f6ed6c6780",
+                    "size": 682804,
+                    "url": "https://libraries.minecraft.net/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"
+                }
+            },
+            "name": "org.lz4:lz4-java:1.8.0"
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "path": "org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar",
                     "sha1": "41eb7184ea9d556f23e18b5cb99cad1f8581fc00",
                     "size": 63635,
@@ -1470,17 +1481,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "b991734308e2cc6dcfbdb9338ea0453009d8e9e1",
-                "size": 24670363,
-                "url": "https://piston-data.mojang.com/v1/objects/b991734308e2cc6dcfbdb9338ea0453009d8e9e1/client.jar"
+                "sha1": "e4dfef131b1d43bde9386105503bdbd3d000341f",
+                "size": 24694534,
+                "url": "https://piston-data.mojang.com/v1/objects/e4dfef131b1d43bde9386105503bdbd3d000341f/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:24w03b:client"
+        "name": "com.mojang:minecraft:24w04a:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2024-01-18T12:42:37+00:00",
+    "releaseTime": "2024-01-24T13:42:45+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "24w03b"
+    "version": "24w04a"
 }
