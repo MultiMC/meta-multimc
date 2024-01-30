@@ -4,34 +4,23 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "71eee023a515b79bb7b235c5c08b045a0db67ce1",
-                    "size": 34445,
-                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc3/ForgeWrapper-mmc3.jar"
+                    "sha1": "9a7d2f13be2070525909f30a26f3832db611009a",
+                    "size": 36203,
+                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc4/ForgeWrapper-mmc4.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc3"
+            "name": "io.github.zekerzhayard:ForgeWrapper:mmc4"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-launcher.jar",
+                    "path": "net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-universal.jar",
                     "sha1": "d8e538b56c0837e69567f6064b78391eb05573df",
                     "size": 2434743,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-launcher.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-universal.jar"
                 }
             },
-            "name": "net.minecraftforge:forge:1.20.4-49.0.8:launcher"
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-launcher.jar",
-                    "sha1": "543592414f3be880c7970f811671d215b9b48b55",
-                    "size": 26341074,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-launcher.jar"
-                }
-            },
-            "name": "net.minecraftforge:forge:1.20.4-49.0.8:launcher"
+            "name": "net.minecraftforge:forge:1.20.4-49.0.8:universal"
         },
         {
             "downloads": {
@@ -437,7 +426,7 @@
                 "artifact": {
                     "sha1": "507d1bd63e521de120975a031bb83a6308b6705e",
                     "size": 5476188,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-installer.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.20.4-49.0.8:installer"
@@ -536,7 +525,7 @@
                     "path": "net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-universal.jar",
                     "sha1": "d8e538b56c0837e69567f6064b78391eb05573df",
                     "size": 2434743,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.4-49.0.8/forge-1.20.4-49.0.8-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.20.4-49.0.8:universal"
@@ -663,7 +652,7 @@
             "name": "trove:trove:1.0.2"
         }
     ],
-    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --launchTarget forge_client",
+    "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --launchTarget forge_client --fml.forgeVersion 49.0.8 --fml.mcVersion 1.20.4 --fml.forgeGroup net.minecraftforge",
     "name": "Forge",
     "order": 5,
     "releaseTime": "2023-12-12T05:32:46+00:00",

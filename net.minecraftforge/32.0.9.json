@@ -4,12 +4,12 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "71eee023a515b79bb7b235c5c08b045a0db67ce1",
-                    "size": 34445,
-                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc3/ForgeWrapper-mmc3.jar"
+                    "sha1": "9a7d2f13be2070525909f30a26f3832db611009a",
+                    "size": 36203,
+                    "url": "https://files.multimc.org/maven/io/github/zekerzhayard/ForgeWrapper/mmc4/ForgeWrapper-mmc4.jar"
                 }
             },
-            "name": "io.github.zekerzhayard:ForgeWrapper:mmc3"
+            "name": "io.github.zekerzhayard:ForgeWrapper:mmc4"
         },
         {
             "downloads": {
@@ -17,7 +17,7 @@
                     "path": "net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-launcher.jar",
                     "sha1": "7b76389a81a159049921c20c6b75d84eebd7eea0",
                     "size": 194471,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-launcher.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-launcher.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.1-32.0.9:launcher"
@@ -217,7 +217,7 @@
                 "artifact": {
                     "sha1": "e048e99cf140d0d5fdc05258c620253482f58bf3",
                     "size": 6548993,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-installer.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-installer.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.1-32.0.9:installer"
@@ -360,7 +360,7 @@
                     "path": "net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-universal.jar",
                     "sha1": "7c641a1013a7bcb319bfa50f0b5e7d9274db3325",
                     "size": 2175028,
-                    "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-universal.jar"
+                    "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.1-32.0.9/forge-1.16.1-32.0.9-universal.jar"
                 }
             },
             "name": "net.minecraftforge:forge:1.16.1-32.0.9:universal"
