@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "76a68f80e9b6754a13d25e09e8a5c4813fb8ce5a",
+                    "size": 655593,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/24w14potato/intermediary-24w14potato.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:24w14potato"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2024-04-01T10:25:32+00:00",
+    "requires": [
+        {
+            "equals": "24w14potato",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "24w14potato",
+    "volatile": true
+}
