@@ -4,6 +4,17 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2024-05-03T17:05:55.553968+00:00",
+            "requires": [
+                {
+                    "equals": "1.20.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e39e79270e21790228e772060b4882f78a10b8bcf8296ac4c5b0a0452dc0f5a0",
+            "version": "20.6.22-beta"
+        },
+        {
             "releaseTime": "2024-05-03T15:16:05.440074+00:00",
             "requires": [
                 {
