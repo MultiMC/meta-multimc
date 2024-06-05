@@ -5,10 +5,10 @@
     ],
     "assetIndex": {
         "id": "16",
-        "sha1": "5dcd60ca21a0e3f71c145be6d1cdf868b035ca94",
+        "sha1": "17fea2e93004e63a50742217fbfc80c7f3fe0d8c",
         "size": 445177,
-        "totalSize": 631811890,
-        "url": "https://piston-meta.mojang.com/v1/packages/5dcd60ca21a0e3f71c145be6d1cdf868b035ca94/16.json"
+        "totalSize": 631856777,
+        "url": "https://piston-meta.mojang.com/v1/packages/17fea2e93004e63a50742217fbfc80c7f3fe0d8c/16.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -498,13 +498,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos.jar",
-                    "sha1": "1e9b635b5c16b515527b905749be59223e338c4d",
-                    "size": 1142682,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar",
+                    "sha1": "806d869f37ce0df388a24e17aaaf5ca0894d851b",
+                    "size": 1071983,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos",
+            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch",
             "rules": [
                 {
                     "action": "allow",
