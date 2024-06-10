@@ -4,11 +4,11 @@
         "FirstThreadOnMacOS"
     ],
     "assetIndex": {
-        "id": "16",
-        "sha1": "80e6c094f22d9d159bd8f8d2613a8976e5e9d8b4",
-        "size": 445177,
-        "totalSize": 631860698,
-        "url": "https://piston-meta.mojang.com/v1/packages/80e6c094f22d9d159bd8f8d2613a8976e5e9d8b4/16.json"
+        "id": "17",
+        "sha1": "7ee724e8d201ae2a05faeeb59421d8403a94b8a8",
+        "size": 447033,
+        "totalSize": 799245914,
+        "url": "https://piston-meta.mojang.com/v1/packages/7ee724e8d201ae2a05faeeb59421d8403a94b8a8/17.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -122,13 +122,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/datafixerupper/7.0.14/datafixerupper-7.0.14.jar",
-                    "sha1": "db3485dc1e6b712bd81170d5ce6dca2fb2f8bd86",
-                    "size": 722976,
-                    "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/7.0.14/datafixerupper-7.0.14.jar"
+                    "path": "com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar",
+                    "sha1": "67d4de6d7f95d89bcf5862995fb854ebaec02a34",
+                    "size": 724313,
+                    "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar"
                 }
             },
-            "name": "com.mojang:datafixerupper:7.0.14"
+            "name": "com.mojang:datafixerupper:8.0.16"
         },
         {
             "downloads": {
@@ -498,13 +498,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar",
-                    "sha1": "806d869f37ce0df388a24e17aaaf5ca0894d851b",
-                    "size": 1071983,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
+                    "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
+                    "size": 1040981,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch",
+            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64",
             "rules": [
                 {
                     "action": "allow",
@@ -517,13 +517,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar",
-                    "sha1": "b0a8c9baa9d1f54ac61e1ab9640c7659e7fa700c",
-                    "size": 1040981,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-arm64.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar",
+                    "sha1": "806d869f37ce0df388a24e17aaaf5ca0894d851b",
+                    "size": 1071983,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3-natives-macos-patch.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64",
+            "name": "org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch",
             "rules": [
                 {
                     "action": "allow",
@@ -1492,17 +1492,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "05b6f1c6b46a29d6ea82b4e0d42190e42402030f",
-                "size": 26565641,
-                "url": "https://piston-data.mojang.com/v1/objects/05b6f1c6b46a29d6ea82b4e0d42190e42402030f/client.jar"
+                "sha1": "4ad5ef18f48b5e901de19fa1767933255e35c5f2",
+                "size": 26836066,
+                "url": "https://piston-data.mojang.com/v1/objects/4ad5ef18f48b5e901de19fa1767933255e35c5f2/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.20.6:client"
+        "name": "com.mojang:minecraft:1.21-rc1:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2024-04-29T12:40:45+00:00",
-    "type": "release",
+    "releaseTime": "2024-06-10T12:24:08+00:00",
+    "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.20.6"
+    "version": "1.21-rc1"
 }
