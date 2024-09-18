@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "114657368e6e3016a8356a809543760a72c5b010",
+                    "size": 685205,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/24w38a/intermediary-24w38a.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:24w38a"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2024-09-18T14:17:08+00:00",
+    "requires": [
+        {
+            "equals": "24w38a",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "24w38a",
+    "volatile": true
+}
