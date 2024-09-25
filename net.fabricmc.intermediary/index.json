@@ -5,6 +5,20 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2024-09-25T14:39:10+00:00",
+            "requires": [
+                {
+                    "equals": "24w39a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "686967b5c929b573b005e1b372f7c9f1195afbd51cb50d4e3ca161e34b6532e4",
+            "type": "release",
+            "version": "24w39a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2024-09-18T14:17:08+00:00",
             "requires": [
                 {
