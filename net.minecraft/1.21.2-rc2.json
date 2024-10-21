@@ -256,13 +256,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/logging/1.3.8/logging-1.3.8.jar",
-                    "sha1": "4452b81eabf9140b4bb026206e01304bafd68461",
-                    "size": 19767,
-                    "url": "https://libraries.minecraft.net/com/mojang/logging/1.3.8/logging-1.3.8.jar"
+                    "path": "com/mojang/logging/1.4.9/logging-1.4.9.jar",
+                    "sha1": "275b4b0469bb089e2633b569768be913a444e5d9",
+                    "size": 19800,
+                    "url": "https://libraries.minecraft.net/com/mojang/logging/1.4.9/logging-1.4.9.jar"
                 }
             },
-            "name": "com.mojang:logging:1.3.8"
+            "name": "com.mojang:logging:1.4.9"
         },
         {
             "downloads": {
@@ -1692,17 +1692,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "0b48c22e8ed722bcae66e25a03531409681e648b",
-                "size": 27403978,
-                "url": "https://piston-data.mojang.com/v1/objects/0b48c22e8ed722bcae66e25a03531409681e648b/client.jar"
+                "sha1": "99a809aa269b700df95ba6d07ff07a43d5af4462",
+                "size": 27843204,
+                "url": "https://piston-data.mojang.com/v1/objects/99a809aa269b700df95ba6d07ff07a43d5af4462/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:24w37a:client"
+        "name": "com.mojang:minecraft:1.21.2-rc2:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2024-09-11T13:01:31+00:00",
+    "releaseTime": "2024-10-21T15:53:05+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "24w37a"
+    "version": "1.21.2-rc2"
 }
