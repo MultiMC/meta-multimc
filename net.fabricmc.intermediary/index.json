@@ -5,6 +5,76 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2024-11-29T18:20:36+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4-rc3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e42a33f75da8d4b6fcd1e3342c88da98780a09e88c41ecc5f361bec93afb5147",
+            "type": "release",
+            "version": "1.21.4-rc3",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2024-11-29T12:23:14+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4-rc2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "2a5790116aff874289220efa1cc331e48ae844296023d5e43e346640fd1f384b",
+            "type": "release",
+            "version": "1.21.4-rc2",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2024-11-28T15:05:52+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4-rc1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "861d050bf2b0a915ae12017fd76a5593477d36a82780618eb21ad882432134c6",
+            "type": "release",
+            "version": "1.21.4-rc1",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2024-11-26T15:48:20+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4-pre3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "ffb4fecb9f834bf7e7b224ce7d56c9d473295a45e3fbfc324dc11179c4a8e7d6",
+            "type": "release",
+            "version": "1.21.4-pre3",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2024-11-25T15:03:20+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4-pre2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4ed21798883d384ded7ead1055db9b80f6baed4a3ba618abeb45dff2c84fc5d9",
+            "type": "release",
+            "version": "1.21.4-pre2",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2024-11-20T14:58:32+00:00",
             "requires": [
                 {
