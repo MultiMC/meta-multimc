@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "6fe3e7648ffe10488f1f5fb2f05e6ccdb29c1290",
+                    "size": 703510,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/25w02a/intermediary-25w02a.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:25w02a"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2025-01-08T15:51:54+00:00",
+    "requires": [
+        {
+            "equals": "25w02a",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "25w02a",
+    "volatile": true
+}
