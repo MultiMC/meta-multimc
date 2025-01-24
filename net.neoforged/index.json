@@ -4,6 +4,61 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2025-01-24T10:52:38.762577+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "3f94f6977d990e51e5d9f732fd5d63fc5152a3d6a75d43eca8f23663641f4bd1",
+            "version": "21.1.111"
+        },
+        {
+            "releaseTime": "2025-01-24T10:46:16.038033+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "bd90f29e82f7cd48c391245e08559121d1e810d98a51a6512dae52e1f50bf7a7",
+            "version": "21.1.110"
+        },
+        {
+            "releaseTime": "2025-01-24T10:42:17.834921+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "076728bd6f364f0b8358146f0c975e78186296817cd595a5863498906357ede4",
+            "version": "21.1.109"
+        },
+        {
+            "releaseTime": "2025-01-24T10:31:08.096443+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6a6a6a1d48092eea04a254a221444e7b6e479fcc3d399ec801fe67c803db3636",
+            "version": "21.4.75-beta"
+        },
+        {
+            "releaseTime": "2025-01-24T10:25:34.642432+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6c7e58173c971820d6a0f676998a7090dc3e90b2544e97504dce45f09e33b718",
+            "version": "21.1.108"
+        },
+        {
             "releaseTime": "2025-01-23T20:32:07.265485+00:00",
             "requires": [
                 {
