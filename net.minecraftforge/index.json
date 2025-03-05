@@ -4,6 +4,43 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "recommended": true,
+            "releaseTime": "2025-03-05T01:27:48+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e25cd9b490a128cca710fcc42b8b2fcf5597721a6781a8150c3663b5424d8cb6",
+            "version": "52.1.0"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-03-05T01:09:16+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "9c3713992b1844e776c2e2175055a656df727c9982f9077a96a88079dd7a2bd6",
+            "version": "43.5.0"
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-03-05T00:57:29+00:00",
+            "requires": [
+                {
+                    "equals": "1.19.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b9732889d53bfc54dd4b7bad6968118d9d58f399aee9502e078010e83e7e7e9c",
+            "version": "45.4.0"
+        },
+        {
+            "recommended": true,
             "releaseTime": "2025-03-05T00:24:28+00:00",
             "requires": [
                 {
@@ -15,6 +52,7 @@
             "version": "50.2.0"
         },
         {
+            "recommended": true,
             "releaseTime": "2025-03-05T00:14:00+00:00",
             "requires": [
                 {
@@ -26,6 +64,7 @@
             "version": "49.2.0"
         },
         {
+            "recommended": true,
             "releaseTime": "2025-03-04T23:54:25+00:00",
             "requires": [
                 {
@@ -3263,7 +3302,6 @@
             "version": "51.0.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2024-06-06T22:10:53+00:00",
             "requires": [
                 {
@@ -3330,7 +3368,6 @@
             "version": "50.1.1"
         },
         {
-            "recommended": true,
             "releaseTime": "2024-06-03T21:24:34+00:00",
             "requires": [
                 {
@@ -3353,7 +3390,6 @@
             "version": "45.2.16"
         },
         {
-            "recommended": true,
             "releaseTime": "2024-06-03T20:53:04+00:00",
             "requires": [
                 {
@@ -3365,7 +3401,6 @@
             "version": "47.3.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2024-06-03T20:39:37+00:00",
             "requires": [
                 {
@@ -3377,7 +3412,6 @@
             "version": "49.1.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2024-06-03T20:26:40+00:00",
             "requires": [
                 {
