@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "043e8bd5ad80714e3167aaac79ea2019d54f5550",
+                    "size": 724617,
+                    "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.5-pre3/intermediary-1.21.5-pre3.jar"
+                }
+            },
+            "name": "net.fabricmc:intermediary:1.21.5-pre3"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2025-03-18T15:05:02+00:00",
+    "requires": [
+        {
+            "equals": "1.21.5-pre3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "net.fabricmc.intermediary",
+    "version": "1.21.5-pre3",
+    "volatile": true
+}
