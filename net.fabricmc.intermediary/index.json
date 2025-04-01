@@ -5,6 +5,20 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2025-04-01T16:29:14+00:00",
+            "requires": [
+                {
+                    "equals": "25w14craftmine",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "48836d1c46415ec173cee337b8b2f9389af47c14145ad8a73b8a9b1a482f2c62",
+            "type": "release",
+            "version": "25w14craftmine",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2025-03-25T16:03:56+00:00",
             "requires": [
                 {
