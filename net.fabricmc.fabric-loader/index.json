@@ -5,6 +5,17 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2025-04-08T14:42:42+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "d3e3e8c698fca5387194f49bdf1592e1b6f72308d9a35de0bb1760572e006cd4",
+            "type": "release",
+            "version": "0.16.13"
+        },
+        {
             "releaseTime": "2025-04-02T12:52:42+00:00",
             "requires": [
                 {
