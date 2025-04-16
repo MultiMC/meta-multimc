@@ -4,6 +4,17 @@
     "uid": "net.fabricmc.fabric-loader",
     "versions": [
         {
+            "releaseTime": "2025-04-16T17:38:10+00:00",
+            "requires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "sha256": "374218fd2a5e213bdc4efd815f5775dff143b9cff232742a8de5045dc59eec4d",
+            "type": "release",
+            "version": "0.16.14"
+        },
+        {
             "recommended": true,
             "releaseTime": "2025-04-08T14:42:42+00:00",
             "requires": [
