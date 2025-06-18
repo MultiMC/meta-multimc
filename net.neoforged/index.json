@@ -4,6 +4,28 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2025-06-18T08:20:47.781998+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "12bdbbb419243b231e782983188a84f8b5e661f3eb53a5ddd525d8b246655a9e",
+            "version": "21.5.77"
+        },
+        {
+            "releaseTime": "2025-06-18T08:17:52.155139+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "38e1d08b0d7af8a402913ac3680078c3f7c4cd98e4bf7f258f91d5040bfdbf70",
+            "version": "21.6.5-beta"
+        },
+        {
             "releaseTime": "2025-06-17T23:24:59.279879+00:00",
             "requires": [
                 {
