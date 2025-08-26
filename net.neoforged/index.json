@@ -4,6 +4,72 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2025-08-26T16:19:05.125484+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.8",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4b22b25d195a536bf153d5c13d61ddb916f0ced755f2c34a5fb12b27b1bc7bb6",
+            "version": "21.8.38"
+        },
+        {
+            "releaseTime": "2025-08-26T16:16:14.622155+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "420f7c34b125033824ba5a7e94e04c6c6a62912649f7f6ec3fda8ec44d9010d1",
+            "version": "21.3.91"
+        },
+        {
+            "releaseTime": "2025-08-26T16:15:57.804274+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f03414b51dafb01ee5bdcdffcb4a28c29427f723993e0bd7cea68a2e68157355",
+            "version": "21.1.204"
+        },
+        {
+            "releaseTime": "2025-08-26T16:15:54.033609+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "009dee2560ca42d0985da8b342e8b70dbd14e1c7ceca42c5e8ac26ec52f41735",
+            "version": "21.5.93"
+        },
+        {
+            "releaseTime": "2025-08-26T16:15:52.246938+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d2e48a5a6504898b3237e0c80c81709104d1b5f362937b3016596df3329bc62f",
+            "version": "21.4.152"
+        },
+        {
+            "releaseTime": "2025-08-26T16:13:54.758056+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.8",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b5e0de7b2640fb969b2c0b46b892d16d46218cd28bd13da45f55172c055c50a7",
+            "version": "21.8.37"
+        },
+        {
             "releaseTime": "2025-08-20T19:00:34.847246+00:00",
             "requires": [
                 {
