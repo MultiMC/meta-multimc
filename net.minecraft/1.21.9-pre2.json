@@ -144,13 +144,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/authlib/6.0.59/authlib-6.0.59.jar",
-                    "sha1": "4da2f9084d1461433f39c3f72e5abbabf01d9c8f",
-                    "size": 116130,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/6.0.59/authlib-6.0.59.jar"
+                    "path": "com/mojang/authlib/7.0.60/authlib-7.0.60.jar",
+                    "sha1": "551602deb49b23d9bb270a3e440307787d4154cc",
+                    "size": 116120,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/7.0.60/authlib-7.0.60.jar"
                 }
             },
-            "name": "com.mojang:authlib:6.0.59"
+            "name": "com.mojang:authlib:7.0.60"
         },
         {
             "downloads": {
@@ -392,6 +392,17 @@
                 }
             },
             "name": "io.netty:netty-buffer:4.1.118.Final"
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "path": "io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar",
+                    "sha1": "eda08a71294afe78c779b85fd696bc13491507a8",
+                    "size": 674362,
+                    "url": "https://libraries.minecraft.net/io/netty/netty-codec-http/4.1.118.Final/netty-codec-http-4.1.118.Final.jar"
+                }
+            },
+            "name": "io.netty:netty-codec-http:4.1.118.Final"
         },
         {
             "downloads": {
@@ -1711,17 +1722,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "19ced525ac65ecca8b501681095637d0043d6776",
-                "size": 30232630,
-                "url": "https://piston-data.mojang.com/v1/objects/19ced525ac65ecca8b501681095637d0043d6776/client.jar"
+                "sha1": "d8c99a813b86518f1a13d48e9e6248f8164c8a8e",
+                "size": 30591242,
+                "url": "https://piston-data.mojang.com/v1/objects/d8c99a813b86518f1a13d48e9e6248f8164c8a8e/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:25w34a:client"
+        "name": "com.mojang:minecraft:1.21.9-pre2:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2025-08-19T12:09:50+00:00",
+    "releaseTime": "2025-09-19T09:48:58+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "25w34a"
+    "version": "1.21.9-pre2"
 }
