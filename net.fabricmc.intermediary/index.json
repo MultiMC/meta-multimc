@@ -33,6 +33,34 @@
         },
         {
             "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
+                    "equals": "25w45a_unobfuscated",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "99e53986d261eb8ae995a63d2a5440f61e935ff27c099b144e2d3d23c26bef81",
+            "type": "release",
+            "version": "25w45a_unobfuscated",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
+                    "equals": "25w46a_unobfuscated",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "67324fded8a8f3218c86d1aff3b32ff584309d5ad0a3df4a9e398d6c0e9611a4",
+            "type": "release",
+            "version": "25w46a_unobfuscated",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2025-10-28T15:46:26+00:00",
             "requires": [
                 {
