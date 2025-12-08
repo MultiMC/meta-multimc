@@ -162,6 +162,20 @@
             "releaseTime": "2025-10-30T16:49:06+00:00",
             "requires": [
                 {
+                    "equals": "1.21.11-rc3_unobfuscated",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "3cba5a39f62d877b70ec7365b5b7aa1111d4b5f44261179d61c3130231a778be",
+            "type": "release",
+            "version": "1.21.11-rc3_unobfuscated",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
                     "equals": "1.21.11-pre1_unobfuscated",
                     "uid": "net.minecraft"
                 }
