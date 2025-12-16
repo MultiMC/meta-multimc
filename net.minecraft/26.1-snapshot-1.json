@@ -15,6 +15,17 @@
         {
             "downloads": {
                 "artifact": {
+                    "path": "at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.jar",
+                    "sha1": "f541d7f910fe3d76f38f799c507c48cc81b12ecb",
+                    "size": 910232,
+                    "url": "https://libraries.minecraft.net/at/yawk/lz4/lz4-java/1.10.1/lz4-java-1.10.1.jar"
+                }
+            },
+            "name": "at.yawk.lz4:lz4-java:1.10.1"
+        },
+        {
+            "downloads": {
+                "artifact": {
                     "path": "ca/weblite/java-objc-bridge/1.1/java-objc-bridge-1.1.jar",
                     "sha1": "1227f9e0666314f9de41477e3ec277e542ed7f7b",
                     "size": 1330045,
@@ -1626,17 +1637,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar",
-                    "sha1": "4b986a99445e49ea5fbf5d149c4b63f6ed6c6780",
-                    "size": 682804,
-                    "url": "https://libraries.minecraft.net/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar"
-                }
-            },
-            "name": "org.lz4:lz4-java:1.8.0"
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar",
                     "sha1": "d9e58ac9c7779ba3bf8142aff6c830617a7fe60f",
                     "size": 69908,
@@ -1650,17 +1650,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "e9b472f991278db704df8ce3eb803af57f26ed07",
-                "size": 31148308,
-                "url": "https://piston-data.mojang.com/v1/objects/e9b472f991278db704df8ce3eb803af57f26ed07/client.jar"
+                "sha1": "bd354bbd46835d7c7753e0b19c718777fb2386ba",
+                "size": 37193668,
+                "url": "https://piston-data.mojang.com/v1/objects/bd354bbd46835d7c7753e0b19c718777fb2386ba/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:1.21.11-pre1:client"
+        "name": "com.mojang:minecraft:26.1-snapshot-1:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2025-11-19T08:06:45+00:00",
+    "releaseTime": "2025-12-16T12:42:29+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "1.21.11-pre1"
+    "version": "26.1-snapshot-1"
 }
