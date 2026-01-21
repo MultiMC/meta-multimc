@@ -4,6 +4,72 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "releaseTime": "2026-01-21T02:52:19+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "1ed8eb105e35b9de9d607def4cdd08640d075f02a8df484bde2ffd479018b61e",
+            "version": "53.1.7"
+        },
+        {
+            "releaseTime": "2026-01-21T02:44:09+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "c4050202fcb0c79389ee8fea59e8ccf14862bffa3978c6b4b3b7834d19b103ea",
+            "version": "54.1.13"
+        },
+        {
+            "releaseTime": "2026-01-21T02:36:08+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.5",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e6a29d9e1a1420244d17ba0bd93c8262806fafbdf71e6dc01d158387942abca3",
+            "version": "55.1.7"
+        },
+        {
+            "releaseTime": "2026-01-21T02:27:21+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.8",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b3fd121f869fb874e526a2b9da6cc1cd77e76ae50b2f45a4495a289f49b94d5f",
+            "version": "58.1.14"
+        },
+        {
+            "releaseTime": "2026-01-21T02:18:09+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.10",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "4de7ac7c050841e791c6012b9ee325859ce021056ef5fd1faf78724d216064d3",
+            "version": "60.1.8"
+        },
+        {
+            "releaseTime": "2026-01-21T02:08:38+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.11",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "124be78d2024d4365855b634e46700eece1bce148b45d4ba95cf7635b73456c7",
+            "version": "61.0.7"
+        },
+        {
             "releaseTime": "2026-01-20T21:34:14+00:00",
             "requires": [
                 {
