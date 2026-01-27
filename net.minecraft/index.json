@@ -4,975 +4,981 @@
     "uid": "net.minecraft",
     "versions": [
         {
+            "releaseTime": "2026-01-27T13:01:17+00:00",
+            "sha256": "6c8328c9c5dd3b5c9bb934a24dd1fea18a36e68844be6d9443f48d6903ded44b",
+            "type": "snapshot",
+            "version": "26.1-snapshot-5"
+        },
+        {
             "releaseTime": "2026-01-20T14:15:37+00:00",
-            "sha256": "61300120798c9a1b3124fa3fcfedeb7767e5676d4701e5fe91067bce9cf2de60",
+            "sha256": "8734f18089e71242801b7cd872b00374c8cdec24ddab1aa6d73a900676a2f8c2",
             "type": "snapshot",
             "version": "26.1-snapshot-4"
         },
         {
             "releaseTime": "2026-01-13T12:47:34+00:00",
-            "sha256": "fd163a7e7a137e2b2c7bd28137ef4cca3e4912023e2fff3389d851de303354b8",
+            "sha256": "6e9a48e02d865a868c2714236e51d4f160228a26fa378ebcf0be2d41e8cc70c6",
             "type": "snapshot",
             "version": "26.1-snapshot-3"
         },
         {
             "releaseTime": "2026-01-07T12:38:03+00:00",
-            "sha256": "0dddfcedc2094b280bc2e5ba589714aec0503838866fa190dc6023e738fbdba0",
+            "sha256": "618f76cd872d67a141d82e4d0635c1a3680da28b53b7a767d68c3432e98b528c",
             "type": "snapshot",
             "version": "26.1-snapshot-2"
         },
         {
             "releaseTime": "2025-12-16T12:42:29+00:00",
-            "sha256": "ab0f2c8ebab825f4e64eb875a9b0b50566d278f627574f0a4b2daa08c23f4849",
+            "sha256": "b5b83fd9364f8aff90496698c4da5063e7532eb548af528883136d69d0d7c6ec",
             "type": "snapshot",
             "version": "26.1-snapshot-1"
         },
         {
             "recommended": true,
             "releaseTime": "2025-12-09T12:23:30+00:00",
-            "sha256": "133dc37b474fe44b54fb6095946e8be7174a7d8fc72363a3a96d9e6f37e2499a",
+            "sha256": "f05ec2d969069a62b0b831048e072d761b9d825d1d4e2182c634e59500931b0c",
             "type": "release",
             "version": "1.21.11"
         },
         {
             "releaseTime": "2025-12-08T13:17:37+00:00",
-            "sha256": "39d60bf692596cc963869f233306344838382e0454abf50267280bbfc3205422",
+            "sha256": "91b953af031355640623ad69cf9fcfd71c648c0aa1a360ead519ca0330e9b4d5",
             "type": "snapshot",
             "version": "1.21.11-rc3"
         },
         {
             "releaseTime": "2025-12-05T11:14:20+00:00",
-            "sha256": "9184874c4fc428d046080b625cb75f5ea1d71b9df59155e77d00474f07f4ce43",
+            "sha256": "0bd6975d437da413b160872323396be3b66e31a91904c721b6c31fe231e3028f",
             "type": "snapshot",
             "version": "1.21.11-rc2"
         },
         {
             "releaseTime": "2025-12-04T15:20:43+00:00",
-            "sha256": "4a1d9720a72734693d54b6a2a4390386691ea81a1c4a9123e235baf021f78462",
+            "sha256": "af1512bb0337ca4356fb03f9f6c9c86635cbada62d6ce2e6cc8da89893cd993e",
             "type": "snapshot",
             "version": "1.21.11-rc1"
         },
         {
             "releaseTime": "2025-12-03T13:14:25+00:00",
-            "sha256": "78e1d9f628469d66c1b67235dd0fb1dc30580fe98bc8e71b47a949ed67208bee",
+            "sha256": "2023b799518f80800200f835a0662da63cd4e236e092a0cc2c99c39507b81221",
             "type": "snapshot",
             "version": "1.21.11-pre5"
         },
         {
             "releaseTime": "2025-12-01T13:17:32+00:00",
-            "sha256": "3aa7723d10a3347ecc899426559089b35126db608a8f1147a0c4bbec254377c7",
+            "sha256": "01a8de6abf389eb9ec210e192d2f6954176ba04087f0273831fdcb1992edefd3",
             "type": "snapshot",
             "version": "1.21.11-pre4"
         },
         {
             "releaseTime": "2025-11-25T13:56:50+00:00",
-            "sha256": "f74a4340c891bf4b41d8c61c7f204a74725824313c4e505e35a0e0d437183042",
+            "sha256": "20769e986b070d599e97a64f874b53b31faa48056341a64f1c59a5c36beff0c0",
             "type": "snapshot",
             "version": "1.21.11-pre3"
         },
         {
             "releaseTime": "2025-11-21T11:44:15+00:00",
-            "sha256": "54c9b00ea351db63d3c035df261689602d57348d2c2cf75e2f8add0a28bc18e7",
+            "sha256": "3e2cd12f103b0c72ce630c224f72a4b580369882037baab7b09b5ae2c2420347",
             "type": "snapshot",
             "version": "1.21.11-pre2"
         },
         {
             "releaseTime": "2025-11-19T08:06:45+00:00",
-            "sha256": "21c36d4413be594a926a34d8b2e5484241a3a1cf2ee58d88d5d61b719e9898d3",
+            "sha256": "57ba9ab665e0db13ecda3d147325fa3fe5d31b050d1c85262bd6c55411c27277",
             "type": "snapshot",
             "version": "1.21.11-pre1"
         },
         {
             "releaseTime": "2025-11-11T13:05:00+00:00",
-            "sha256": "b401db00b84ff50672794c62993c2f5355015ef35eca6cbcf5285cfe31a1758e",
+            "sha256": "1663b52def7ee1041153e8843983614a0d661707f71b61dab2d9ad83f0d9be65",
             "type": "snapshot",
             "version": "25w46a"
         },
         {
             "releaseTime": "2025-11-04T13:51:04+00:00",
-            "sha256": "3eefc995b80fc74aa4862543c08807747d5c94f02c5322a364631d22a7934266",
+            "sha256": "c61631c5816be3d98667e1291a68918b0b4cec81b09f4b2a2a03972017a79bc7",
             "type": "snapshot",
             "version": "25w45a"
         },
         {
             "releaseTime": "2025-10-28T14:02:28+00:00",
-            "sha256": "eded4d71678d307014c9962e97833850dbe87982ee9426df419e7932aa440b34",
+            "sha256": "fc60bd172399a80fc3c3fc9ff758550df2c01672331f88a99b215fcc6c9537fb",
             "type": "snapshot",
             "version": "25w44a"
         },
         {
             "releaseTime": "2025-10-21T11:38:51+00:00",
-            "sha256": "6416c2c0150bb610dab07ee143d1f3f54e16c1e3c3860238575807cd321e607f",
+            "sha256": "eb016111822fa7e46c65dedba9bb5de471af5cd6c2dbc2eb278d71a591207055",
             "type": "snapshot",
             "version": "25w43a"
         },
         {
             "releaseTime": "2025-10-14T12:48:10+00:00",
-            "sha256": "42f29bea64ea4d665d5f340642ca487b91bb49be230cdc8e47d77e1fcc453445",
+            "sha256": "876a9daaed60f5fb1641515a407d85420e24a938b719fcd7c156ec7e209ae763",
             "type": "snapshot",
             "version": "25w42a"
         },
         {
             "releaseTime": "2025-10-09T13:41:35+00:00",
-            "sha256": "9b55a87b8cd1ddcb95e78a02d179b52c3555e8120c3a1eec55bf5088aebbf32a",
+            "sha256": "c725bbd085e70f6260f290d98aeada199394931e8c4b15984873a675f66ce528",
             "type": "snapshot",
             "version": "25w41a"
         },
         {
             "releaseTime": "2025-10-07T09:17:23+00:00",
-            "sha256": "76f4cff9cc67c182ee51c1356d0057de64a3f8346ef3b4fab9c8e9f7f5d3b888",
+            "sha256": "531edab0ea86df2b477b50285b15f497e8b20d133ee1caedbfe7f12a7dd50b08",
             "type": "release",
             "version": "1.21.10"
         },
         {
             "releaseTime": "2025-10-02T12:09:16+00:00",
-            "sha256": "2b863c8d4d1fb623f3fce0e9e66ea27d41325059ca82e40206589b44ac675bf5",
+            "sha256": "c85f9f8da5430f678a96feb00a73fefe25cc3ff9a26407677af1544916057dd2",
             "type": "snapshot",
             "version": "1.21.10-rc1"
         },
         {
             "releaseTime": "2025-09-30T11:58:43+00:00",
-            "sha256": "51907da7c159f3d72befcbbed74fab29d0c7cbe61f29ee6b9ab9a613e7c649b0",
+            "sha256": "5a5978f2e3e23a1251bd790ad36613557acac2d9360e5ed9685ede78c21896d2",
             "type": "release",
             "version": "1.21.9"
         },
         {
             "releaseTime": "2025-09-25T13:01:28+00:00",
-            "sha256": "5b2b46677cede7d1680b49a2ed807f77700790b4ba5b2fe38cf27f6a4b092651",
+            "sha256": "34f4008be61369ebddff914013fbb81cacf39e587542a74e64b3fbfa1f7ac691",
             "type": "snapshot",
             "version": "1.21.9-rc1"
         },
         {
             "releaseTime": "2025-09-23T14:58:08+00:00",
-            "sha256": "336725e46cdab428ea60d09a2df13f68e3677e8912b60a1904927fbf8b4db4f0",
+            "sha256": "846a05f5592a2d8d6f6c55f98b258b0a6c259bccfe726e3684f4f79b31d5ccf1",
             "type": "snapshot",
             "version": "1.21.9-pre4"
         },
         {
             "releaseTime": "2025-09-22T12:57:35+00:00",
-            "sha256": "fbc934c224ea29f7d12304e6e3490ca91da7ce1271bf49ac9ada07d7320c6ed9",
+            "sha256": "8e4df40c2b84a05e2327bd4acbce59e8ac144b9e00001a9c962dc238731b4aca",
             "type": "snapshot",
             "version": "1.21.9-pre3"
         },
         {
             "releaseTime": "2025-09-19T09:48:58+00:00",
-            "sha256": "9bbf91aa3bee27d48792de6ee41ebc615645894ee3c3b9cc9b976684f079250b",
+            "sha256": "5eef1ec50b4f1db439fcb09dd6486f8f4deec5cc2b7c5e1def1900893b1fe080",
             "type": "snapshot",
             "version": "1.21.9-pre2"
         },
         {
             "releaseTime": "2025-09-16T12:10:12+00:00",
-            "sha256": "6a817dfed58c23fae1f44043cd9f008003ad530128e0789d3a73ae413a683ff1",
+            "sha256": "83b7c9955e5388a55d553b78a19e3430d40e63a13b446b0da9d883f1c35cd7c2",
             "type": "snapshot",
             "version": "1.21.9-pre1"
         },
         {
             "releaseTime": "2025-09-09T13:24:21+00:00",
-            "sha256": "61bde4003488b13bb94886bfb0d7eaf39f93e8cc0f667dfe6679e4bb71a2421f",
+            "sha256": "abdaf9e3836401409910c143e761cd444726abe1a2f241e252b64f583858311d",
             "type": "snapshot",
             "version": "25w37a"
         },
         {
             "releaseTime": "2025-09-02T15:47:32+00:00",
-            "sha256": "7bee8dd0894d35bdb4658e5f59711d212c687b5cb4bf5f5cb4cf3c9b7b039867",
+            "sha256": "cf5d0b0e2878b5aaa5904c9fdf8929597f7383d5b8912bdf864ea265060fcdda",
             "type": "snapshot",
             "version": "25w36b"
         },
         {
             "releaseTime": "2025-09-02T11:48:30+00:00",
-            "sha256": "8cdd9c8dd6e49e773a116bded22fe7b6041dbfcf8a6d78453c15bbb7027435ae",
+            "sha256": "5bca85be9dd0375c517a6a760f6218ce92f3314564dd06ed842bf81e59b1101f",
             "type": "snapshot",
             "version": "25w36a"
         },
         {
             "releaseTime": "2025-08-26T11:51:22+00:00",
-            "sha256": "9ec9dcbdabdb4daaff8e08ac6550194609484592fd8d0bf3f965a2d51caad909",
+            "sha256": "67a2c77b3732c95beee8f359641aa05aaf81f6e427f2f2ecc1dddf4197f862b1",
             "type": "snapshot",
             "version": "25w35a"
         },
         {
             "releaseTime": "2025-08-19T15:02:29+00:00",
-            "sha256": "e9d4b8f3b231a41c8293094db7247e0dbf677f502459d2faa2c986635aec60c6",
+            "sha256": "ad5d5d10a302704a3523204e3216b57f235cdb726e4195f940e1d93c536eccb5",
             "type": "snapshot",
             "version": "25w34b"
         },
         {
             "releaseTime": "2025-08-19T12:09:50+00:00",
-            "sha256": "dd2e2a9d49f655b6f3f4780f35a4ac01def37b5022ecec651aa19e89e2b9057c",
+            "sha256": "a03a42694fd7d705fda693785b48e27ee46677bfbef450f4a295fcdb87a9a950",
             "type": "snapshot",
             "version": "25w34a"
         },
         {
             "releaseTime": "2025-08-12T11:45:24+00:00",
-            "sha256": "a2ac13efb1def5677d89faac574eaa29de03a53ef830c8e71c744105782ee1dd",
+            "sha256": "15906079aef31c74a4dee952e72360381c4c2ed42ef70eaaff689fea1ea4048d",
             "type": "snapshot",
             "version": "25w33a"
         },
         {
             "releaseTime": "2025-08-05T12:21:45+00:00",
-            "sha256": "a9e90cb9acc53e8697e02036062eea227deefe432075601e9013957fa2694e11",
+            "sha256": "5ef1b28c56a495ff0a43f84c809d27480b435c2b25fbea30e54007e2e38686bb",
             "type": "snapshot",
             "version": "25w32a"
         },
         {
             "releaseTime": "2025-07-29T11:29:33+00:00",
-            "sha256": "fdb062d83311b9df45c665f8788d76ede21ba1f6e77edb2d61d6871c420cdd5a",
+            "sha256": "345588666c24629c9e6091e4e85361cbecc811ec767abeeada6d81543f2fcae2",
             "type": "snapshot",
             "version": "25w31a"
         },
         {
             "releaseTime": "2025-07-17T12:04:02+00:00",
-            "sha256": "4ffd96bd365f56ab6255b8f9cad45559dc9af4f13327e602c810ea2df48b543b",
+            "sha256": "e005fac4aca1aec405dbe79da4b31b3d9a78335a33a96ef27c34d46827a6310d",
             "type": "release",
             "version": "1.21.8"
         },
         {
             "releaseTime": "2025-07-15T13:42:50+00:00",
-            "sha256": "fc4a771f631a5e8b68e36203c79a15804e811dd41f51843dee2144015d4f1a1b",
+            "sha256": "1bdfd4ed6a83b49a6c4e120de65d643077ff2c570b343862c0ee544c74ea0998",
             "type": "snapshot",
             "version": "1.21.8-rc1"
         },
         {
             "releaseTime": "2025-06-30T09:32:16+00:00",
-            "sha256": "e82eb38c7916188ed78a6bb2aeb5e3b5d33d9d470b76671f01cb2c7e2b8f32dc",
+            "sha256": "4086a6d33a68b3b4595290275272a07497ee6e3a0c7f336285c08a71eb05c5b3",
             "type": "release",
             "version": "1.21.7"
         },
         {
             "releaseTime": "2025-06-26T13:59:20+00:00",
-            "sha256": "9bfcd469e249535c4b1497fcb47fef20aabc7d56f3a1f2b66be2f70b87d6f36a",
+            "sha256": "aa130be64f6c4abc2b1190461d75b83e6a0c80636468a7ecebb54835901e67a2",
             "type": "snapshot",
             "version": "1.21.7-rc2"
         },
         {
             "releaseTime": "2025-06-25T12:41:59+00:00",
-            "sha256": "18996d07bf14b7b3db186e827ac425a5b242a259f499177c6ffbb62eca71ca8a",
+            "sha256": "78f7d1729d072a3fc85ac30e9b332cd9104c4387257587d49fa9523b2f4bf0e4",
             "type": "snapshot",
             "version": "1.21.7-rc1"
         },
         {
             "releaseTime": "2025-06-17T11:10:28+00:00",
-            "sha256": "c0a74df047cc8554839cc219f9057511b3cb7a628a22917531ddddf15536a073",
+            "sha256": "307c25bcbe586128539277f2c551e500259b0eced39118eb19ff6ffb2d905e50",
             "type": "release",
             "version": "1.21.6"
         },
         {
             "releaseTime": "2025-06-12T12:04:37+00:00",
-            "sha256": "529acab9c8e9d58d8004e4815a9fdfc8240f5a31a301d7155243f0d48217dfe9",
+            "sha256": "eadf079039f2350c5520a686890474b6daaa5a6eaa067e86b988497a28c73e76",
             "type": "snapshot",
             "version": "1.21.6-rc1"
         },
         {
             "releaseTime": "2025-06-10T12:22:36+00:00",
-            "sha256": "50f279aa328e8e3c0268636bc2648230f417130a780056c6a91207e960352419",
+            "sha256": "4da358219fa0d2c210f2551e9719490fca96b35de457e16d81461d4f2e3f63c0",
             "type": "snapshot",
             "version": "1.21.6-pre4"
         },
         {
             "releaseTime": "2025-06-04T13:33:25+00:00",
-            "sha256": "1d1fbe9fa94b016e398fe066e1f407ba444a3190124204d65232e6cf1255d9a6",
+            "sha256": "986c85c0b94b1f9f5d14ca20b1922736fc897d12448a5b474907ca3741b9b46e",
             "type": "snapshot",
             "version": "1.21.6-pre3"
         },
         {
             "releaseTime": "2025-06-02T13:40:47+00:00",
-            "sha256": "0a668c8c552778194dc71328c6c8a7b0c15d8c472c7532e3c355673f43bd1891",
+            "sha256": "2b3097540cbcb444c34fb88fc6121dfd2e091096560d974c0b1c22307b1ffd94",
             "type": "snapshot",
             "version": "1.21.6-pre2"
         },
         {
             "releaseTime": "2025-05-28T09:34:04+00:00",
-            "sha256": "a0600352073478d77b9157e8a77edaae84e336536ace79f3a1a01b3311f8fcef",
+            "sha256": "d597cb03fa59eeb64175000913e3c17ee5979976dc2f5ca8da47c2d2863b30aa",
             "type": "snapshot",
             "version": "1.21.6-pre1"
         },
         {
             "releaseTime": "2025-05-20T12:09:09+00:00",
-            "sha256": "6dfe040442537e8aacb21e58788bebcb341fcd2fc6ec25570b81d18e9d46a856",
+            "sha256": "1ab58b8005639c6d47b59088ced978cebaf8145986fab542115a4a097b69fb3b",
             "type": "snapshot",
             "version": "25w21a"
         },
         {
             "releaseTime": "2025-05-13T11:46:28+00:00",
-            "sha256": "924aa60cdad4d8639de986ebd0f249a9ed4224ac79041f8b7c16abb205a10e0f",
+            "sha256": "d9fe83a2a1c9035712928b964b380762f2ca933aff4c45b53e816246e246984a",
             "type": "snapshot",
             "version": "25w20a"
         },
         {
             "releaseTime": "2025-05-06T12:57:57+00:00",
-            "sha256": "d721397177e3b7324061cb24f768ceccc0a19c893deb4210c16b2d65b7f0ed43",
+            "sha256": "b62cbea9b4e85bf89d7c9af8f863974d6a1e30b21840613dbc1f89918b696600",
             "type": "snapshot",
             "version": "25w19a"
         },
         {
             "releaseTime": "2025-04-29T12:21:01+00:00",
-            "sha256": "39eaf344ed1e23b0d3afc815f2d667d0083deed50f91d846a49bc7d417fc3beb",
+            "sha256": "78ab205f4836663e7e5de7454fb94f526bbfc2665cf5b86680b22ab45e472b09",
             "type": "snapshot",
             "version": "25w18a"
         },
         {
             "releaseTime": "2025-04-22T12:51:30+00:00",
-            "sha256": "b64df11a0d13dfb1f3f6d79ccbacc76f77489666b474d98eaba3e3d54d9b4a0e",
+            "sha256": "0b7e3fca8803ed3f2b9f848c03d7f3f87c88693e4149acd0c6a06e586a170060",
             "type": "snapshot",
             "version": "25w17a"
         },
         {
             "releaseTime": "2025-04-15T12:01:58+00:00",
-            "sha256": "22e4406d189017715f27d3a44653d28c4c3d57bf06eb1adf0b2ad752e9d827f2",
+            "sha256": "05621c79a5b5721cce6fe45d1ea0c6bbf1ce84067bd8f8cb4407623588be8071",
             "type": "snapshot",
             "version": "25w16a"
         },
         {
             "releaseTime": "2025-04-08T12:16:59+00:00",
-            "sha256": "431902e30876fc06c1805e8fd8fc6d27fd7cfdfc6afa2682bbd2d8259e671823",
+            "sha256": "6384603d0a69ad88a8320612797d3fe4340f207285e134f6544ccb4c3ea8a68a",
             "type": "snapshot",
             "version": "25w15a"
         },
         {
             "releaseTime": "2025-04-01T15:50:09+00:00",
-            "sha256": "e487a8b0b81d8533cd6f36f5c2e5a13ccb34fbd06356bfb620dba618586f0d13",
+            "sha256": "64531b4fff1d538a05bdb22efe8e6c3f3ad829846342106506f27e4b98c00ffa",
             "type": "snapshot",
             "version": "25w14craftmine"
         },
         {
             "releaseTime": "2025-03-25T12:14:58+00:00",
-            "sha256": "216f46f767f154b212379b931845c16e106546e0483cd8e01d1aa3930689b458",
+            "sha256": "cb9f1cb666e06e71185aecbec3ee98546441645860b52df0a250da7abbb8a991",
             "type": "release",
             "version": "1.21.5"
         },
         {
             "releaseTime": "2025-03-24T13:07:03+00:00",
-            "sha256": "84cc1ce198e76127267f90f9f24367e857952fa5f32ba5391d74db0b3468d387",
+            "sha256": "2185c6cb1f806fd5d4a666acba2e364e1896dbd35e3a1c4d5051a1fca77e62f9",
             "type": "snapshot",
             "version": "1.21.5-rc2"
         },
         {
             "releaseTime": "2025-03-20T13:45:48+00:00",
-            "sha256": "33531fc3f733ac997fc4558dc7474912e5e058b1b0ac0c3b4e9f9d681508ccb0",
+            "sha256": "93692f463576d71afdd03743a89557a66d76095aa8287f602ccb5bc90c065629",
             "type": "snapshot",
             "version": "1.21.5-rc1"
         },
         {
             "releaseTime": "2025-03-18T13:58:30+00:00",
-            "sha256": "292b304c7f560a34bd839c2544153591b63bb5334ea58e0d452e0c51afc0605e",
+            "sha256": "92eda8fdb2e7c7a8a8634d675c845881e624e0b26b74ed9273fde615261ee1ef",
             "type": "snapshot",
             "version": "1.21.5-pre3"
         },
         {
             "releaseTime": "2025-03-12T12:36:02+00:00",
-            "sha256": "c981ccfb7ca8dba63904dd2e2a15824862685771781b75cf631a18efc78519c9",
+            "sha256": "5967ebd22394a06fd420cddfe52fc6166d2a19de80c618dfc41700eff4fc4fa3",
             "type": "snapshot",
             "version": "1.21.5-pre2"
         },
         {
             "releaseTime": "2025-03-11T12:49:44+00:00",
-            "sha256": "b0d1fef07a403a9777eed2c4f8be44bce2c38b8239d8979b9bf12647c8f1b290",
+            "sha256": "1d7a876c5e6425c82a861c01a87f9646e1f137ec4d430edef90c851dbcd563d3",
             "type": "snapshot",
             "version": "1.21.5-pre1"
         },
         {
             "releaseTime": "2025-03-05T13:11:13+00:00",
-            "sha256": "bf3eb1e4e1fe10562c9d518f639f00fa0137d8a8a3290bf6de839203513a7957",
+            "sha256": "58ea9cef0a9ad6de5367cbf8ffe49d56b4227e070e646ded36e7e251e63260b2",
             "type": "snapshot",
             "version": "25w10a"
         },
         {
             "releaseTime": "2025-02-27T11:07:08+00:00",
-            "sha256": "6b3b2c305c5cd31032fd1c03a4b49e1599617d0f828e6b6115f0dd9b5000dabb",
+            "sha256": "4339df5c0bd0e9903772b417d66bebe929e7e85afa2cb871682ea3fbe51692bc",
             "type": "snapshot",
             "version": "25w09b"
         },
         {
             "releaseTime": "2025-02-26T15:16:02+00:00",
-            "sha256": "f767e3db347a9cc6f33f9ae38657fc22a506ba129cb98acbdcd346ccd4b154a8",
+            "sha256": "bc9714982546889b728f3d5efd2dacee7b0b38bae64c9de433673e90087026f6",
             "type": "snapshot",
             "version": "25w09a"
         },
         {
             "releaseTime": "2025-02-19T13:41:43+00:00",
-            "sha256": "1a8dc3c720f9bf951bd821690f14e21f47bf7b29e721b15490bcc23498006dd0",
+            "sha256": "2cb1985e2efae74ab4776ffc920ea79f06a99fdc00900c279ff4d24174585c63",
             "type": "snapshot",
             "version": "25w08a"
         },
         {
             "releaseTime": "2025-02-13T12:55:37+00:00",
-            "sha256": "3be818d8b42343011c7a2517e8da09b0fc3f8a98f21e3f2bf79d1af51ced0ac8",
+            "sha256": "cc8c9b4be27fc80bc5e28565f5276dba0b53863f296589c5dcb2570d657025da",
             "type": "snapshot",
             "version": "25w07a"
         },
         {
             "releaseTime": "2025-02-05T12:41:17+00:00",
-            "sha256": "722df003598a93aee9a6ef0bcf319a15f6eb1cf5911f1081805457351b874b1a",
+            "sha256": "7cd18ad3795a54f4d6b59785ac672ab2ebf34a0989c05c1f655f787fc63fce50",
             "type": "snapshot",
             "version": "25w06a"
         },
         {
             "releaseTime": "2025-01-29T14:03:54+00:00",
-            "sha256": "d308a5f766106c35c7ce7e0ce3db7986b88a7beac894a7bd380b5b1e1cbd796d",
+            "sha256": "3b88ad2eafc13475d660e1a2faddd9a96bd8656df06ec9646b42cf44a8ed9661",
             "type": "snapshot",
             "version": "25w05a"
         },
         {
             "releaseTime": "2025-01-22T13:14:44+00:00",
-            "sha256": "fb201989c1917525e40c6148e5d2bc156a9681b33c78fd75a1270aece728675a",
+            "sha256": "1119088abb0db30a2f7daf105ad528d0f6d1b54b6a16d7bcb1f1f6cf85908a4f",
             "type": "snapshot",
             "version": "25w04a"
         },
         {
             "releaseTime": "2025-01-15T14:28:04+00:00",
-            "sha256": "8f8012b78adbd49c8580341a8dd8b0c3719d8266e48b022a06421228dc881730",
+            "sha256": "ac275088c05a749d2114fad03c80e5cdf3a74d672b541a65017db3989e2fd030",
             "type": "snapshot",
             "version": "25w03a"
         },
         {
             "releaseTime": "2025-01-08T13:42:18+00:00",
-            "sha256": "65466a5aad5e6437bf0d042c2927bdbf50b5fe59dd3fedab1479755ae0c79fee",
+            "sha256": "e53152ae03f396430e79d2c585caa61dc47ac9dc8e155e7f604a012d913c3750",
             "type": "snapshot",
             "version": "25w02a"
         },
         {
             "releaseTime": "2024-12-03T10:12:57+00:00",
-            "sha256": "acfebfa5186d6b8901faceecc184d16847cc7f514255cabc47399c7c03a4b911",
+            "sha256": "0a71825435c439bc6d40e2c3b3de8401cdea95c31c8476e04324fac4d5cd9bf6",
             "type": "release",
             "version": "1.21.4"
         },
         {
             "releaseTime": "2024-11-29T17:02:53+00:00",
-            "sha256": "e416a87c69de8c26b56660e1bb1795ddeecb65229d3e9197614ee65920c6af7f",
+            "sha256": "25b0b494bb616106e4a1002ddc7acc8ecb1b1355635e4bf2473e2da1c3fcd00e",
             "type": "snapshot",
             "version": "1.21.4-rc3"
         },
         {
             "releaseTime": "2024-11-29T10:33:13+00:00",
-            "sha256": "3878bc38caef802fc064c3ef81aa04a8b8abfe1dfdb1533af8fdfb579de8f94c",
+            "sha256": "a3732b3151f4bbcfad3d94811d156d172f974b7a547e55f2b56bcd9db8e8bc2a",
             "type": "snapshot",
             "version": "1.21.4-rc2"
         },
         {
             "releaseTime": "2024-11-28T10:19:01+00:00",
-            "sha256": "7331723a2ecf5e8afcfdb3f105324b93145f833219baa8db92e559a600bc8203",
+            "sha256": "dc8ca92581d8e2a323a7bb6d599fa688fb72cbac1037092ea074ebb9937c6a1c",
             "type": "snapshot",
             "version": "1.21.4-rc1"
         },
         {
             "releaseTime": "2024-11-26T15:07:29+00:00",
-            "sha256": "61ee1a27dcffc03e6c5f1aecdc17638684c1281c6a6ec5be0ba0ef09ebc79125",
+            "sha256": "f26a9f8f424c6c837b1496649fb1b4ba30164c72cc094c33b484c5ad0ed0f3f6",
             "type": "snapshot",
             "version": "1.21.4-pre3"
         },
         {
             "releaseTime": "2024-11-25T13:18:35+00:00",
-            "sha256": "5d09e12fe55b8cab74e7f1bbbf330f9239c97c2b3603ad2afde8aa378d95122a",
+            "sha256": "8588a215132e85fc0b3d8a440476a242c6f3e51b9fec059c4d3242717c9d3fbe",
             "type": "snapshot",
             "version": "1.21.4-pre2"
         },
         {
             "releaseTime": "2024-11-20T13:45:00+00:00",
-            "sha256": "a0716e5d078f92b509437eec6a2e1ecea3c8bb2184b4edd85f03e48bc4bd6203",
+            "sha256": "be9a6d5842e3a574e5b5f74b4081e47063d5c139ccf73b91e3a8bfad48ce044b",
             "type": "snapshot",
             "version": "1.21.4-pre1"
         },
         {
             "releaseTime": "2024-11-13T13:12:38+00:00",
-            "sha256": "5f1c6812d93684e3d60560b4de42fc8d635aebe7b253db4224635f97dd79389b",
+            "sha256": "a8a643215743a8084c12e0c92297a4aa93480d1e9d98d5fe6ba76c57d326d121",
             "type": "snapshot",
             "version": "24w46a"
         },
         {
             "releaseTime": "2024-11-06T13:31:58+00:00",
-            "sha256": "aff488756c64e14d5f39282b9cf9f463c0897ce52eec67ce2c532d560fa56571",
+            "sha256": "73030fbf8e0a42c52e86de655461d9a0ee6db0d139750ce43b7246cbf8485483",
             "type": "snapshot",
             "version": "24w45a"
         },
         {
             "releaseTime": "2024-10-30T12:53:55+00:00",
-            "sha256": "e1c0eea771283fb5fee28c41a7b366b138ace6cdf008cc76a01cdecf02034584",
+            "sha256": "2135c6be27035c902fc548704bcbc839b556f2e7d58e875883dfb49238d51400",
             "type": "snapshot",
             "version": "24w44a"
         },
         {
             "releaseTime": "2024-10-23T12:28:15+00:00",
-            "sha256": "43df5bb4c4e5f02ba8f42cee93220d3f0dad258694bde1227ff938079cf6c938",
+            "sha256": "9523b3fbdc2a85d28c33e08bdc3ac3b59b4d8bde3b9a8e2e147fa6334f17b3e5",
             "type": "release",
             "version": "1.21.3"
         },
         {
             "releaseTime": "2024-10-22T09:58:55+00:00",
-            "sha256": "425e87b15fe4697da03136fdf1e29c7ba15d52f78efded4b1775e32eb4e38e5b",
+            "sha256": "ff4ad7e021c0dbb7ba80b31067d1a2562104eed7cf2b3f96a6aebc86a69a72e3",
             "type": "release",
             "version": "1.21.2"
         },
         {
             "releaseTime": "2024-10-21T15:53:05+00:00",
-            "sha256": "d88cfac0d7c896533f19e7b85669cf74e5127a3231c0fde66e7f1cf31f86e1bb",
+            "sha256": "351370f53c636ad6b76b12e3a3c38381eeff6406136e6646d5ac98ea3da5f5dc",
             "type": "snapshot",
             "version": "1.21.2-rc2"
         },
         {
             "releaseTime": "2024-10-17T12:43:18+00:00",
-            "sha256": "553194f6875b954b3c18c9971809971358bf6b15dad9d086f73aab44c7bd79d5",
+            "sha256": "bda28ee090e2e9d4e361bc16968ed96e33436b5ec907ffea38e8ec4c7c8aa2bb",
             "type": "snapshot",
             "version": "1.21.2-rc1"
         },
         {
             "releaseTime": "2024-10-16T13:30:35+00:00",
-            "sha256": "f6a64a2f74e5b2e9bb11becade44b05553ebbf9b86a60da1e7d3d733ec5ab03a",
+            "sha256": "ff337b1ba02683de62b076c8e12be5465a11e223d63d17677325863aa3f1ed37",
             "type": "snapshot",
             "version": "1.21.2-pre5"
         },
         {
             "releaseTime": "2024-10-15T11:59:11+00:00",
-            "sha256": "dbe8674acb0ea12ac83ddea8519e92abd4401131698f3c392d09b287416c544b",
+            "sha256": "a7355511c1f785302870b9f388b7613b79d41064c1ddfea7ab1f20fb5a726d7e",
             "type": "snapshot",
             "version": "1.21.2-pre4"
         },
         {
             "releaseTime": "2024-10-11T12:32:27+00:00",
-            "sha256": "75ab4179d26f0e2deaa1e01cbef4538a0d6fdeab7f09fca865f35737cf7904a9",
+            "sha256": "c8f2ca8aca1f2f27b410a26894084641dcc7ccd87557ff5c6a7ac9d52d306723",
             "type": "snapshot",
             "version": "1.21.2-pre3"
         },
         {
             "releaseTime": "2024-10-10T12:59:14+00:00",
-            "sha256": "67781376aec421db43697b5975fd3f12176e78b6993be50d2c30b0af469ad864",
+            "sha256": "6ea07dcb73a90acf6535af8db9129e3348373ddb6ba6524b708c343e5aa354e8",
             "type": "snapshot",
             "version": "1.21.2-pre2"
         },
         {
             "releaseTime": "2024-10-08T13:22:12+00:00",
-            "sha256": "96f6653ba905bec899fc70c20827b679e0e9a69d9af75a378c21865233fbca9f",
+            "sha256": "3ed95557a731c39fd0940dd1cf8aec75739f65b455b44899d6bf30b39c1d03e4",
             "type": "snapshot",
             "version": "1.21.2-pre1"
         },
         {
             "releaseTime": "2024-10-02T13:15:42+00:00",
-            "sha256": "a0c2f2a80fbf1922fb84ead141116c2ee97eb46782104fa25274e477d34411b6",
+            "sha256": "124533dfa67d19ecc263c9a081a80828ad102886df84b55bf1334c06a1ae492e",
             "type": "snapshot",
             "version": "24w40a"
         },
         {
             "releaseTime": "2024-09-25T13:08:41+00:00",
-            "sha256": "9eec60e62f54acf9fa076c92f146373048dd74d0c40c36725b687453832a3d1f",
+            "sha256": "20c2e58443ce1907e20c2a0313d8810242bdb2d5483f4b0abf6e5c0c69ef9fc2",
             "type": "snapshot",
             "version": "24w39a"
         },
         {
             "releaseTime": "2024-09-18T12:32:07+00:00",
-            "sha256": "64f0c0662c399ed3a4875b4e4ea342719d6928bbc0622a6cbcb8e7026fd517fa",
+            "sha256": "5841a872285e98d4ae60ddc1fb63fbe86954b9af322c0987d12d4c1f929af9ca",
             "type": "snapshot",
             "version": "24w38a"
         },
         {
             "releaseTime": "2024-09-11T13:01:31+00:00",
-            "sha256": "f003763d3571147896d8f108a4fadfa9ed92bd5819417057677513d26ad142e9",
+            "sha256": "f5bea6dd81ec10e623bfe451558265b7593af5a3668caabe105a4c3e16aa074b",
             "type": "snapshot",
             "version": "24w37a"
         },
         {
             "releaseTime": "2024-09-04T12:44:12+00:00",
-            "sha256": "2814be212dcfb64fdbaf64798ef33b899599de172c989da22a72722b8e729578",
+            "sha256": "70609f0296d01ccc1f52d67f612766f55adc41e65cd952ce688b7f5235cf4db8",
             "type": "snapshot",
             "version": "24w36a"
         },
         {
             "releaseTime": "2024-08-28T12:25:10+00:00",
-            "sha256": "bc6f8774446700b0e6950323cb3e55a9dc2beee96988cb093e88e79643333a4d",
+            "sha256": "2337f9a695b7cd95304c3f7dfcfcbe8b503f7803bdd92e6b9116b97cf233dbc5",
             "type": "snapshot",
             "version": "24w35a"
         },
         {
             "releaseTime": "2024-08-21T14:14:13+00:00",
-            "sha256": "4f630426513ff9d4785da9d5e3efe9ec41958d23026e929723498fe6ecb42710",
+            "sha256": "891a0559bc88b26df873633b99cf797c0157eab254064754a8ee928cba07901e",
             "type": "snapshot",
             "version": "24w34a"
         },
         {
             "releaseTime": "2024-08-15T12:39:34+00:00",
-            "sha256": "5eeec619cdd3b82ce63a2267ad0736037756741b9d8947838943068e81eb40fb",
+            "sha256": "8678dac4c4cb0f9d79a8157c01bfa5a86a8799d2ca544db847c159f55d1aa686",
             "type": "snapshot",
             "version": "24w33a"
         },
         {
             "releaseTime": "2024-08-08T12:24:45+00:00",
-            "sha256": "febfe58c1acb39210df6a806a769a5b09bce7c28874e007fa9374b5c2c13e256",
+            "sha256": "60e97595112b25bc4a1eb5463098b0bfe085ca73acbe88fd10fbf5e1b0eeeb26",
             "type": "release",
             "version": "1.21.1"
         },
         {
             "releaseTime": "2024-08-07T14:29:18+00:00",
-            "sha256": "82f83fcb30af430e90a938f93f39ac37e3fb597d0464ca348faf1a222ccf7550",
+            "sha256": "ecf8cc96839bd4c568c7bc3dd0c3b766efe3b4d444833c750c54b9ad599a4954",
             "type": "snapshot",
             "version": "1.21.1-rc1"
         },
         {
             "releaseTime": "2024-06-13T08:24:03+00:00",
-            "sha256": "d51235e6f6c9ac5401d010d0b0759d766b95db23c7eed5ed9b44caa1d1036aef",
+            "sha256": "58175d46b8bb3f88799f48b492eb3a428333a805ad343a711156a8984c53ff22",
             "type": "release",
             "version": "1.21"
         },
         {
             "releaseTime": "2024-06-10T12:24:08+00:00",
-            "sha256": "97c15d6a72a2fce5b8193485db1c82910894156ce0a9646ba10de4eddc3b8c0b",
+            "sha256": "19abfa14bf83e714c50cca9ae37552d6f32acd0406569026a16fd0f302530ac1",
             "type": "snapshot",
             "version": "1.21-rc1"
         },
         {
             "releaseTime": "2024-06-07T12:00:15+00:00",
-            "sha256": "eb6f1a96591e3ff20d985630e799130b7b3dd4f25825187bd9ef9d7fa910a8a0",
+            "sha256": "fb0dc6e54955254a8b8975fee2bd219857636de03b101008f26581af740ad598",
             "type": "snapshot",
             "version": "1.21-pre4"
         },
         {
             "releaseTime": "2024-06-05T08:51:44+00:00",
-            "sha256": "45de99e47745d05bb1cd1c60fc0651eb6b615fa339292ae22842958be3043697",
+            "sha256": "b8fb15cfb37228b2dae980f2fc87df945874430f20e902d408009f05afe01877",
             "type": "snapshot",
             "version": "1.21-pre3"
         },
         {
             "releaseTime": "2024-05-31T12:44:56+00:00",
-            "sha256": "dbd6afbafa49d331e4e565fffac0bb21ebb869d52a223613eb463e43e81a83bb",
+            "sha256": "ef1acc8284db39f14c5f439eee96c662538f054828a8b8affd05f3bde4b3e031",
             "type": "snapshot",
             "version": "1.21-pre2"
         },
         {
             "releaseTime": "2024-05-29T12:04:43+00:00",
-            "sha256": "031d6c8ed4ae54b3d0a3648f813be04dcc2cb63476a563a0058024c1cf86fbf1",
+            "sha256": "473391eb9d560293d45f4fbc964a67327a292eadd1dcf38ee1d66fa5a5564010",
             "type": "snapshot",
             "version": "1.21-pre1"
         },
         {
             "releaseTime": "2024-05-22T16:25:41+00:00",
-            "sha256": "6020642de147ee632be26df5293e4ad342161a19d9b4a7460f1e61a40932bf5f",
+            "sha256": "79ec12c3a370a349ec9822d3f0c2d1f52adf3bee139f49fbd6283d9e0bca7835",
             "type": "snapshot",
             "version": "24w21b"
         },
         {
             "releaseTime": "2024-05-22T14:18:26+00:00",
-            "sha256": "e92a726cf4bbe6a523e544e57241237f53d9cf074670113aa1506b3eb6226ff5",
+            "sha256": "059f67add851ea02cc0928f05a3f9fbcba5240b9057201875755339f2e67ccb1",
             "type": "snapshot",
             "version": "24w21a"
         },
         {
             "releaseTime": "2024-05-15T12:00:35+00:00",
-            "sha256": "589fe028a9a7a6bfa0fa3e6029aea3c8d9b456c139d684bf122a10911bca8642",
+            "sha256": "281981a344c437de418f50cbf79952cba074c40be607e333391c95924f622699",
             "type": "snapshot",
             "version": "24w20a"
         },
         {
             "releaseTime": "2024-05-10T14:32:42+00:00",
-            "sha256": "4ac68d49daa5a3fab067da46eb085ff67cc104513b71715553dc1dc9d578295a",
+            "sha256": "4d8bd3c03f74439b421c2797b50ff266f735779e7fccfa1e4fd3f08ffd3ce518",
             "type": "snapshot",
             "version": "24w19b"
         },
         {
             "releaseTime": "2024-05-10T12:15:31+00:00",
-            "sha256": "a93d3511377231c7c31ef76cbca0d888a48aa7f9eb58ac70a6625629ff392f5d",
+            "sha256": "9b555d9e1c08fc2e303bf6db70a80e1a4197ec3797bc24e8c6fccbc6c968acaa",
             "type": "snapshot",
             "version": "24w19a"
         },
         {
             "releaseTime": "2024-05-03T12:08:27+00:00",
-            "sha256": "0cf479dede4bbec33bfcecebccc7585a7788c3dbf3ab33a4ef3152e649a21fa1",
+            "sha256": "4875e478e4fb9d6117c88f6164500260094ef3d0eb6d10a7e6c69f9c45a74aab",
             "type": "snapshot",
             "version": "24w18a"
         },
         {
             "releaseTime": "2024-04-29T12:40:45+00:00",
-            "sha256": "4495941714231a341e6b2c97457f1037edd8e5e6a29c462d9455fe51fa8ebc97",
+            "sha256": "b5fceffce103bccd5df9c8a6787208efc845882da94070714db2245ef86eb19f",
             "type": "release",
             "version": "1.20.6"
         },
         {
             "releaseTime": "2024-04-26T10:12:17+00:00",
-            "sha256": "e3ae48e66b444286975af4b9a90dd2ace9c3609ae7335daf8439a7dab5853b20",
+            "sha256": "7cc3b68449b19cca38284fcdc3fb2e2f69c45de01dbc6a190b493d409e4fb0d6",
             "type": "snapshot",
             "version": "1.20.6-rc1"
         },
         {
             "releaseTime": "2024-04-23T11:54:12+00:00",
-            "sha256": "22ee757dfa6f3f43f5e52948ada35e0297a3109f7b008fa30a6fb0fa6b21780f",
+            "sha256": "cd36197a31ad4fdb89c9fed4b7f32ade63598f1852a0e45c913455e2881f9538",
             "type": "release",
             "version": "1.20.5"
         },
         {
             "releaseTime": "2024-04-22T13:42:34+00:00",
-            "sha256": "c4b21a2b3ac95f9fe6338a10b3c484c54623630fcfa290d826efa3b378400a96",
+            "sha256": "0526aa0cd415c102bbdcf90cddbf4ff3f29b7914175aafbf0f1710b08bbb18bd",
             "type": "snapshot",
             "version": "1.20.5-rc3"
         },
         {
             "releaseTime": "2024-04-19T13:13:15+00:00",
-            "sha256": "80f8660422da1461ff926f8e40226d4d06cd279f3264a407c3732faa032cc391",
+            "sha256": "f8af1461850e041eea2c913baa8a4b00bcaccd0d61d1c9a62f4170242aa00e37",
             "type": "snapshot",
             "version": "1.20.5-rc2"
         },
         {
             "releaseTime": "2024-04-18T11:45:40+00:00",
-            "sha256": "6866522c372254849c6ea8b6b4d644a66a2787585c36cbb3c551b6209c263fd2",
+            "sha256": "c847fc626f1c29597ae67add52cfdcacd1e9d35cc64222abfa7ff008fc1d1ad9",
             "type": "snapshot",
             "version": "1.20.5-rc1"
         },
         {
             "releaseTime": "2024-04-17T11:56:02+00:00",
-            "sha256": "db27f054c9995c71202e3a072ab0352a5e8546453e9108bbf56b89a789343808",
+            "sha256": "257a163b95612f52abc25dad505b0f4cec6215bede08575b0d87cea8b3094bda",
             "type": "snapshot",
             "version": "1.20.5-pre4"
         },
         {
             "releaseTime": "2024-04-16T11:57:30+00:00",
-            "sha256": "b1bc0daed8ef74a301e001de207b430d5c1b5db4b198a706d1ba99874bd52c12",
+            "sha256": "5bc9e8540f50fc7c2c5b71c0195b76abc142d5bbf87d0155c6d60aefd3fa6a03",
             "type": "snapshot",
             "version": "1.20.5-pre3"
         },
         {
             "releaseTime": "2024-04-15T12:36:05+00:00",
-            "sha256": "6b974ec9b6779fcf81df48b5063be7849e06831ec5fcfb418474ad50eab7e744",
+            "sha256": "eada2f0d2b85b347d2d28276eff633145acec778b0bf1bfe7b8dd28371469205",
             "type": "snapshot",
             "version": "1.20.5-pre2"
         },
         {
             "releaseTime": "2024-04-10T12:44:25+00:00",
-            "sha256": "3a3748d892fec2820ec0f2ba32c666cd9539435101f4634c7e3154c018a3d121",
+            "sha256": "61f1fff125a2f1b5b2fefbc6583f73cc9109ee18815bac5e81ae270dc52ff5c4",
             "type": "snapshot",
             "version": "1.20.5-pre1"
         },
         {
             "releaseTime": "2024-04-03T11:49:39+00:00",
-            "sha256": "312be8e26d18904fce06764251a227f68ebf15ed6f8f288c389d641007e38501",
+            "sha256": "faf97361d218e1df543a9b5bf9d9767fbc0b51707c9648da86f7cfea36269704",
             "type": "snapshot",
             "version": "24w14a"
         },
         {
             "releaseTime": "2024-04-01T11:07:19+00:00",
-            "sha256": "a835eaa50cd16699bc2b36f07795b236be0620c860d79ad8f70d1cd34dd6f209",
+            "sha256": "a65066c8db02cbbda9cefd6364cdafaa09e67677693d0151d1e3183bcdf2d330",
             "type": "snapshot",
             "version": "24w14potato"
         },
         {
             "releaseTime": "2024-03-27T14:30:20+00:00",
-            "sha256": "62a30d50a92b99e749b64a42ca932b8feb04edee928f7cadb17482196be36c8e",
+            "sha256": "b0962a1c32c8b714ac69f4a157e9d00ebe688b5beb2a4588af9064b8151cba85",
             "type": "snapshot",
             "version": "24w13a"
         },
         {
             "releaseTime": "2024-03-20T14:38:37+00:00",
-            "sha256": "4993bee98e6f918bbddcef6724b46ea49038ef0e4e767a6e886b538909d0de3f",
+            "sha256": "878dbafe55508e001f58c08d21fbeb18eff0eae4912c13dd804de1b6138848c0",
             "type": "snapshot",
             "version": "24w12a"
         },
         {
             "releaseTime": "2024-03-14T14:21:33+00:00",
-            "sha256": "a9a4946bc034007ab6de8fef5c1587ebcb90e0d2809f01f9d2678c56fbe13b72",
+            "sha256": "7c14f7e68e1ed0689205c24dbc2b3099818d69909ee6fc33ed693774648ca97a",
             "type": "snapshot",
             "version": "24w11a"
         },
         {
             "releaseTime": "2024-03-06T10:37:35+00:00",
-            "sha256": "4ab8ae199fd161a65df2d897e88cf508053ef5599a197e7c4ebf8e23a336b31a",
+            "sha256": "fa23708420783d3852a5290bd814c00d3e333e1dbf7d8541e9fb011e74617f96",
             "type": "snapshot",
             "version": "24w10a"
         },
         {
             "releaseTime": "2024-02-28T12:38:12+00:00",
-            "sha256": "6f904878fe7be4304dd548ecfcb34e974a4d57451ffe2e55f0883e2cfe6f15e2",
+            "sha256": "e72ae886e8ad76da13f89a73223a5a4bba0997d5b2354340f60c1a3f69be3f3c",
             "type": "snapshot",
             "version": "24w09a"
         },
         {
             "releaseTime": "2024-02-14T12:51:01+00:00",
-            "sha256": "6a9b3174aba45343c29f0603b7c43e1beaad5e3d8314c8f1c11ad91159097723",
+            "sha256": "bf691f3e551f9cf7f3298d3460530ebd3bb8efa1afea1a529e424a634d356e62",
             "type": "snapshot",
             "version": "24w07a"
         },
         {
             "releaseTime": "2024-02-07T14:47:18+00:00",
-            "sha256": "20001aeac36da4570a9d1a4bf3e75bc9fe799da7dc8e9a9477ec1a7e7ae2e5c3",
+            "sha256": "28568cc230ae11b19ac9b167597b1648ac0b5ce9e37596253b63f6a4c178c8c6",
             "type": "snapshot",
             "version": "24w06a"
         },
         {
             "releaseTime": "2024-02-01T12:55:14+00:00",
-            "sha256": "8acb29b40d5885acd7f1f065638e1e0db5dc24a6e65162fdf21c99d633932480",
+            "sha256": "09673a863d49274a58a0fbff33f5596ecba0ae35da3f5f5be2c89c34a4dbc927",
             "type": "snapshot",
             "version": "24w05b"
         },
         {
             "releaseTime": "2024-01-31T13:05:26+00:00",
-            "sha256": "4d5d237789902335ae32fd457a584c55d96dbdf6b0934492b0811872a73d3ac2",
+            "sha256": "263e646499e7dae73de6927eae0b356ff6403bbb727538e72a0916ee0c7120b6",
             "type": "snapshot",
             "version": "24w05a"
         },
         {
             "releaseTime": "2024-01-24T13:42:45+00:00",
-            "sha256": "3b6e5a15847a22403ab2c2b2899c6353bd67f3881c35f1248b2ecc277b5c42e0",
+            "sha256": "b1316c6c20b186948cd43db45d05516652749b5e5c9e02bb582ceb5a33793f26",
             "type": "snapshot",
             "version": "24w04a"
         },
         {
             "releaseTime": "2024-01-18T12:42:37+00:00",
-            "sha256": "469bfbd001a90d325fb7f1fb635b8192fc64d09d721ac0637993aca6e8f8c584",
+            "sha256": "47900e09cc0e33b73b7c379cc4436b215b98e5d2bfd7274503b5890b0e8388e5",
             "type": "snapshot",
             "version": "24w03b"
         },
         {
             "releaseTime": "2024-01-17T13:19:20+00:00",
-            "sha256": "534295495e48661c379d3a03fcd516d52b45bbb1c267342945c25c41e0db2d76",
+            "sha256": "6e67afed67678656d913fda41cf50082d7c353258c9ae68be47f5b907822bb97",
             "type": "snapshot",
             "version": "24w03a"
         },
         {
             "releaseTime": "2023-12-18T15:39:14+00:00",
-            "sha256": "4b050750feda7cf8dde92e2cd7fe854505667c6d212daff022ad036ac7dc47ad",
+            "sha256": "9ef9e712ecb1278baa4c3edab76da8eba6a69e53481eee20ac8a18da9299c501",
             "type": "snapshot",
             "version": "23w51b"
         },
         {
             "releaseTime": "2023-12-18T13:36:46+00:00",
-            "sha256": "7e2d7c4f64aa4bc7e329fd7bd93cb752e2c8021f0b01bdfe56edfeabf361e910",
+            "sha256": "6d712623a41fc347b8e201cec5648aea4d4cf3057f70fb5208fc643b80a5922a",
             "type": "snapshot",
             "version": "23w51a"
         },
         {
             "releaseTime": "2023-12-07T12:56:20+00:00",
-            "sha256": "b9fdad53cb7b5255eddf170030aafc74f70440ecdd428ccd94ba98b05bf26fe5",
+            "sha256": "8cd198f1ccb94f198f7c594920230deafc48f74956fa3378962cf2d5555d6fa2",
             "type": "release",
             "version": "1.20.4"
         },
         {
             "releaseTime": "2023-12-06T14:38:01+00:00",
-            "sha256": "ddd505b32789e42cf1ce59c453e40b878e2fdf129dc9f4c6a4ddd9c7325915fa",
+            "sha256": "39ae6c36b02a0c4f31953981fa0a41ff0b8e968401b34181c05a9dd69235f399",
             "type": "snapshot",
             "version": "1.20.4-rc1"
         },
         {
             "releaseTime": "2023-12-04T12:10:32+00:00",
-            "sha256": "92b23aeceefcb649bc7cf0158fd0c832e1403c79ce1402e1a4ebca96e12c7d08",
+            "sha256": "90f73cc107afa9d6abd4e5731221f114cda1694ca431fbb21dfaf66c97d5c9ec",
             "type": "release",
             "version": "1.20.3"
         },
         {
             "releaseTime": "2023-11-30T13:41:45+00:00",
-            "sha256": "37751b83e2cdb535d134351ad6ec1e510ea17a3713826674c36c43e2d76f601c",
+            "sha256": "947943f18c715113fa050be0e9e26dedcc9dcc801a451b1e541a95264816819f",
             "type": "snapshot",
             "version": "1.20.3-rc1"
         },
         {
             "releaseTime": "2023-11-28T13:47:32+00:00",
-            "sha256": "bb278322ecb430fe5bcfcaba62efd3627eee4c3b031ba6122630bd242761a8da",
+            "sha256": "c9d9d2ff2a368bce21632cd67860c783e9b47600430eab83436de28bdef46a4e",
             "type": "snapshot",
             "version": "1.20.3-pre4"
         },
         {
             "releaseTime": "2023-11-27T14:24:36+00:00",
-            "sha256": "7502ed102d0ed0dc0f64c2e3ba0818683a728a69e1a117f1b9d205435bb5c7b9",
+            "sha256": "2c4520f57f27ad96ce00fe2f50e1fe596e2510f98f7e6d77f0d30c9eb39b75cb",
             "type": "snapshot",
             "version": "1.20.3-pre3"
         },
         {
             "releaseTime": "2023-11-22T12:21:26+00:00",
-            "sha256": "97969810eda6d6f3bc2ff5ebd2f496f8dec497c19ac5832dec73a0ef52467118",
+            "sha256": "90613b1abf5967fc01e303b09230bce006ccb1e59703899cc0aa927fc6d1377a",
             "type": "snapshot",
             "version": "1.20.3-pre2"
         },
         {
             "releaseTime": "2023-11-20T15:40:14+00:00",
-            "sha256": "6106eadd9b517d15b21f63d816f9e0ea76c82f68d610246668b78e5eeb085a43",
+            "sha256": "3b10c410d70c66fde05d5cd00589e196482fea13a76bc44d2df6f1c274d2708f",
             "type": "snapshot",
             "version": "1.20.3-pre1"
         },
         {
             "releaseTime": "2023-11-16T14:11:33+00:00",
-            "sha256": "126acbb90c3717908bf08809deb5a73418686ea7c5c6faa1ed634bd14258962c",
+            "sha256": "2fda3f453bad5e1f26beb53bec19040b2d094717c2963ccafc8330ffa0bce5db",
             "type": "snapshot",
             "version": "23w46a"
         },
         {
             "releaseTime": "2023-11-08T13:59:58+00:00",
-            "sha256": "2100a42f6b7ceec082536a44f8fc28a8250c97e5c338ad525145dde445be5039",
+            "sha256": "53c86298d580d4db3981a5237232d438df1f5084bf5e9cf6240c8130229572c3",
             "type": "snapshot",
             "version": "23w45a"
         },
         {
             "releaseTime": "2023-11-01T12:30:52+00:00",
-            "sha256": "da7746665f42dc2eee9e33e3b2ab0a7973df6fed20358085b1a01e207615e3ec",
+            "sha256": "44e86cb4de9fa449c0a7d21f81b4e8246b0957b19a1cfc27dfde45ec6aee59bb",
             "type": "snapshot",
             "version": "23w44a"
         },
         {
             "releaseTime": "2023-10-26T13:46:16+00:00",
-            "sha256": "99cb81b4f93e532f8748078976c895b65985cc1bc02ff5fc51e6b744ffb3751d",
+            "sha256": "36d9306754d15dbec801522e1175df71e31a9dab4c86db21a9c6e1840e207846",
             "type": "snapshot",
             "version": "23w43b"
         },
         {
             "releaseTime": "2023-10-25T13:34:37+00:00",
-            "sha256": "e1edce8424e5d5bd64388cfc3728c0fc0cf5f4fa6200832cfe0fb6d46d2dd459",
+            "sha256": "63621147f332892407c15c671cd503ee6a4c9e615f2f0b110aa9c4d8f06b1773",
             "type": "snapshot",
             "version": "23w43a"
         },
         {
             "releaseTime": "2023-10-18T11:37:28+00:00",
-            "sha256": "8586600f639ac2195b43a9fb2bbd9dc319e1e9ef2a4b3fe51234a96d92baefc8",
+            "sha256": "d9e38c1c6b6fb1fef2c82ba7feb0468cb3ee92441c14881d49a3f1eeca20a11c",
             "type": "snapshot",
             "version": "23w42a"
         },
         {
             "releaseTime": "2023-10-11T12:32:46+00:00",
-            "sha256": "def3f3ae4303745787091a85f234e910f0685d843db142ca426f28dacf66b413",
+            "sha256": "0087b95b088392a8ca1f20cfc26f4a726fe703bc7b7529381259e0e3d259b48a",
             "type": "snapshot",
             "version": "23w41a"
         },
         {
             "releaseTime": "2023-10-04T12:48:53+00:00",
-            "sha256": "80e249ef279153b9630fbf8ebffd8feffbffc44fbde9b2a2abd8df6097cae73e",
+            "sha256": "337075b8b0e105023151b19a60e4b5b9e5d05bcc0b75a95601eff581c12b2d53",
             "type": "snapshot",
             "version": "23w40a"
         },
         {
             "releaseTime": "2023-09-20T09:02:57+00:00",
-            "sha256": "9901abba6faebef0a9f2b19a24e632fe7aafeec630890ff14de78ca2af88945c",
+            "sha256": "b632a5c73265545d3d722c4c353cd7e877d8d091e06464054b8c440b48e06ba8",
             "type": "release",
             "version": "1.20.2"
         },
         {
             "releaseTime": "2023-09-18T12:34:57+00:00",
-            "sha256": "ea3a46c0d584016b83687aa941a71b8fe43ed5f0e436d59af91cfb651ef0e6a1",
+            "sha256": "79b8900fe4e4c5bb73a201823da0330050188a5a8c4b989ceac17e05faf33196",
             "type": "snapshot",
             "version": "1.20.2-rc2"
         },
         {
             "releaseTime": "2023-09-15T13:10:30+00:00",
-            "sha256": "7079ac77e764bdde778eefacc40f300e334483f018273f70db21896c3bb6f406",
+            "sha256": "6e9dd1efedd5a1256d6a34a1d749b3e3bc607d116fe23c2e3e275137c57841ca",
             "type": "snapshot",
             "version": "1.20.2-rc1"
         },
         {
             "releaseTime": "2023-09-13T15:06:51+00:00",
-            "sha256": "3396968df693e83d3d4f49acb725f6e60a53e7b361dde2c44ef3700cdf21f7d2",
+            "sha256": "679a84916763c8fd4570ce49b01ccb841394f56cce7afc54708007711231e4d1",
             "type": "snapshot",
             "version": "1.20.2-pre4"
         },
         {
             "releaseTime": "2023-09-12T12:15:08+00:00",
-            "sha256": "b3a5d7a8baf67a3c7178876ddf788173e08d5f75a6a37544d15748568087810e",
+            "sha256": "059676bf4fcb6b5b42cb0e47f95ffd435d7155f70e6ce0d8e2931bd1e757d521",
             "type": "snapshot",
             "version": "1.20.2-pre3"
         },
         {
             "releaseTime": "2023-09-07T12:42:32+00:00",
-            "sha256": "8a5161ca2cffc1f78e5741b0a2c69eb7365de0ae729d90c9adf06417799f9dd7",
+            "sha256": "8e0f7e5b64ee655d4a620a5d35b1d47a7a6a9ea0642ea2dbe2be077435a458ca",
             "type": "snapshot",
             "version": "1.20.2-pre2"
         },
         {
             "releaseTime": "2023-09-05T12:06:20+00:00",
-            "sha256": "5303b626c0a743820265b67d192f6573c66d6a083e2a0d1bf02dcace9801e6de",
+            "sha256": "02225da0b514c570c720ba25f71d5bb31f3d632bbc52409767b494b18fc05c24",
             "type": "snapshot",
             "version": "1.20.2-pre1"
         },
         {
             "releaseTime": "2023-08-30T11:24:35+00:00",
-            "sha256": "3387383778d3fb3c743cf6cdc1344a9bd902419eec881e25fef6d6e0df0a442b",
+            "sha256": "e173dd0d9edf41d44ffe915177f30c7b8b81b7cf309c6e5b14523d659695387a",
             "type": "snapshot",
             "version": "23w35a"
         },
@@ -985,7 +991,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "74d20213e400b0494e883a19bcee20366d708fa4321ded61e9966c2190a647ab",
+            "sha256": "d1a633b65c25e55f98c3f37d14208f83d542279095c96817958f0030e65bd614",
             "type": "snapshot",
             "version": "23w33a"
         },
@@ -998,7 +1004,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "fb97f29c85f226bde3b88f04d62d5930985f5c36f041868636d8f03637ab1f13",
+            "sha256": "9a3a45e8d3edbb2567c668a8eeb64eb556ece352e976fdd731bf5381e4d2a21d",
             "type": "snapshot",
             "version": "23w32a"
         },
@@ -1011,7 +1017,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "ba347ae4750a268ac4c18fbefbc7b1f3cf10a20f7da80799fbb2fda13eb8b8ac",
+            "sha256": "e8aa3a29873794097be873628f717d3b7cc381667123f45bcdd0756779dd8f58",
             "type": "snapshot",
             "version": "23w31a"
         },
@@ -1024,7 +1030,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "15a63acee9f85916fe6fd31172da92ca8f27bc44e20afc85c9d21410d412bbdc",
+            "sha256": "e6912597e247a9447758a0315a7e44af140fbe0052de12b6ad01bce825fe7604",
             "type": "release",
             "version": "1.20.1"
         },
@@ -1037,7 +1043,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "d77bf7601055c90ae38eb2640944f66a616fce328ace6b63604ec907553c8641",
+            "sha256": "f58074ede9a5aa6b2704a0f74b1984569aa5e3f2ecff1b947564d5900f019efe",
             "type": "snapshot",
             "version": "1.20.1-rc1"
         },
@@ -1050,7 +1056,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "7698d847aa65a1f168c27472661859101ddba61bfc562ff9f7e6c59b3ff97db9",
+            "sha256": "c82b7bae617c22f7b422927441c0c9b65ecb63133204f2749afad288e74983ee",
             "type": "release",
             "version": "1.20"
         },
@@ -1063,7 +1069,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "77ba19e6ae168b424a0406719d748c6a25d0c9c21ac1e2c2672f2ba260212af7",
+            "sha256": "cfaf2d145d50dcaf631658e81ca3cf66eff11f509ff52f03c34850d0c507591b",
             "type": "snapshot",
             "version": "1.20-rc1"
         },
@@ -1076,7 +1082,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "3b03fa14da5a113f1e71418b9995414658816ddb8c008dba0353c7c1b125c372",
+            "sha256": "6a02896fc34d09793c0e03536461eb44226b2cf22812c92407f5c3e12e894f97",
             "type": "snapshot",
             "version": "1.20-pre7"
         },
@@ -1089,7 +1095,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "0b6140c69c32ee7406b04b9c6210d5635a1293a89eee261f0f7a45076cbafe55",
+            "sha256": "7611d85b427a7401221b13cd84bcefe831739cd895ce5e69fc2841cfda3b7c2f",
             "type": "snapshot",
             "version": "1.20-pre6"
         },
@@ -1102,7 +1108,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "2995fe7a5d52ea13eac9dc5f0541541ab27d19cc40fb5f6442d73f38019ba9ef",
+            "sha256": "6154710f3bdee9eff50688ce0b148721915fb99d7142e3a2a530acfbb9e1c7f6",
             "type": "snapshot",
             "version": "1.20-pre5"
         },
@@ -1115,7 +1121,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "625f0a4531f9833e8ea413b88cd36b31d3e8b44c5b06f207125e41154be3dd28",
+            "sha256": "f09cfebbfeff6317e114e3307269f06d59a59ca018a5feaf918f5deb67cc8492",
             "type": "snapshot",
             "version": "1.20-pre4"
         },
@@ -1128,7 +1134,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "1d4f3b9ac188af5b0589ce9535cc33adcc70ce47b9b12c1ac161b2e28d3de0ab",
+            "sha256": "646b01d03c47d2e1233cd1c034dca295f8485a87087904fb47531c046ea0eb63",
             "type": "snapshot",
             "version": "1.20-pre3"
         },
@@ -1141,7 +1147,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "6b07f4271e1aa36fb66ad151a1eea09282bacf688a384b3e62904272393ef50e",
+            "sha256": "182a8aff23c94b3a9bf1f375e6f6e2d2f6d883939e77d44a782580b7e2457ae7",
             "type": "snapshot",
             "version": "1.20-pre2"
         },
@@ -1154,7 +1160,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "8b2e5adcee117eeaf566138fbd96f38f2d7d76b35c45aea26d1ec6d1d1dfbc52",
+            "sha256": "636ffa52398f274626f1a605acdcf905760e6d9fedd828437d41df295ed7a84a",
             "type": "snapshot",
             "version": "1.20-pre1"
         },
@@ -1167,7 +1173,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "f6a11ba7b384dc693761dc5132425875079f7437b3a5bb794e5cdb25c9665d8c",
+            "sha256": "e0771db31e2160614f999adb2eab7bf02ead944503af5de2fa40f3d3574ac80e",
             "type": "snapshot",
             "version": "23w18a"
         },
@@ -1180,7 +1186,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "55676c2362b4b8d7468744f7bcdeba788fcd902b6582175627c4a22c2b964980",
+            "sha256": "36f2698807bb6d1696ebe88c66ad4789ec7e0d6d4ae97c34a4de0a3e29df2168",
             "type": "snapshot",
             "version": "23w17a"
         },
@@ -1193,7 +1199,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "bd54b7f54259277ee952afc554a06b6009c6bf8903f52ebfd07ec2e01901c29f",
+            "sha256": "4006c1407130235f7f7856e9c64ffec5f2c4f3fea8dcaad0ee19d0cc3f9d8275",
             "type": "snapshot",
             "version": "23w16a"
         },
@@ -1206,7 +1212,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "97fca0c88403f3ae3c19791c286355dc97623625808e44c99661b9ed4cc596d8",
+            "sha256": "cec5185ea95630849d14972ca42c5a1822445909ba6b26c2fb77aff24c1a00ce",
             "type": "snapshot",
             "version": "23w14a"
         },
@@ -1219,7 +1225,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "37e10bdca735f59f98d4862a31edb7de6a7f3a5574cb6083d511c14e299df184",
+            "sha256": "cf83c7f62f0576e9dcdf0fbd336b38bb08b7b2a5deb389926b8eb6f1db22f63c",
             "type": "snapshot",
             "version": "23w13a_or_b"
         },
@@ -1232,7 +1238,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "bd634f5e13927851ea2e8eee9bab74b748091ae44d3d82bc47758de161c00c38",
+            "sha256": "1a05af82a6a046f4075ae2b084ddc84310f6291166bb2468c3ff220cf290a641",
             "type": "snapshot",
             "version": "23w13a"
         },
@@ -1245,7 +1251,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "1f856ff13d740462bdb0d202dc2b9d5595f5c307983ea21880135e7cdfb048cd",
+            "sha256": "6800f17713e29bb6f4b837b16351cca8e991e821a2899c34fd169aa9aa99e3f4",
             "type": "snapshot",
             "version": "23w12a"
         },
@@ -1258,7 +1264,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "0bc3d93fa4ac9dab66a753ac64f3b7618728efe2a6f683c55bc67582394f362b",
+            "sha256": "c4b8299fcaeacb4c7af41e8c0e886ce6d805f4a117d31f886d2885058ff8c185",
             "type": "release",
             "version": "1.19.4"
         },
@@ -1271,7 +1277,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "6001eb9ba29786deb41faac319f9024c0bf7dadbb57d541aceb4a430f7283e10",
+            "sha256": "0ae2e4f8209d016856f1a5bf4bfe10fd4aadf10051538e9bd290ec9160ef9a6d",
             "type": "snapshot",
             "version": "1.19.4-rc3"
         },
@@ -1284,7 +1290,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "0ae42ff1b9630246ba5183e28f197db837091b793f57fb58503fbdb6cf007421",
+            "sha256": "fb45e194af932bbae100255f8c9bcc1c6b2e67d0642a4943ef11a9086e6b478e",
             "type": "snapshot",
             "version": "1.19.4-rc2"
         },
@@ -1297,7 +1303,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "81191f4d133b18c926416aa6463cad5381d3d5dadf40bc622b374657af5fd31f",
+            "sha256": "6e78d5443185f20f58ea6485b36b6f28623348757393fb136bed8f68ff4dd980",
             "type": "snapshot",
             "version": "1.19.4-rc1"
         },
@@ -1310,7 +1316,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "76896aefde0dee13d059d81c10c57bbdb7ef682aaca45ddd21389c61c4b0f106",
+            "sha256": "18802864eefc3f5ebae84c03e18cb71454e5308a65ca28ee0c5fe51c6a0181fe",
             "type": "snapshot",
             "version": "1.19.4-pre4"
         },
@@ -1323,7 +1329,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "ddd8f3dba906233035e511ec41e99f7e7257f56c26183a5d302d3f3a547b2996",
+            "sha256": "ae7871b69d924e80c76c04409f0167c3641227995d1c66d11489ce903fed2ee8",
             "type": "snapshot",
             "version": "1.19.4-pre3"
         },
@@ -1336,7 +1342,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "3c61fc19f794aa8c2b04ced4ba37aa7ba1a6e58204f1bcab57c654e5f131c216",
+            "sha256": "afe71505c59f0b5a667cea5c5b0a2a0624a816efe45ac69b2bbf4bf2a4fe5eeb",
             "type": "snapshot",
             "version": "1.19.4-pre2"
         },
@@ -1349,7 +1355,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "6161150bcc61e65209a155c9d7182f2623fb9ece5544f660068c8feae0c6180d",
+            "sha256": "f469b7bd5686b2a071bdc1e3a8ae201fc3d6ab56e7d0dcdc713cb669705307cf",
             "type": "snapshot",
             "version": "1.19.4-pre1"
         },
@@ -1362,7 +1368,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "90f839c3240f0ce5dba1aa39758a896ba3cf1f73b136073ba7a7bcd329eb09e2",
+            "sha256": "c0ea79021ce08eec645fe03ee4804dfce9ef5df1d05682397e55ee1f23e6d1d3",
             "type": "snapshot",
             "version": "23w07a"
         },
@@ -1375,7 +1381,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "29c04610a10081f5e5f560ecf48b02316acfde57d64595462b96ccb577c87f28",
+            "sha256": "ad324b7f2da90d7dd1f86ae3ff8a222969cfcbe9940b7dcda47ae6d87993aba5",
             "type": "snapshot",
             "version": "23w06a"
         },
@@ -1388,7 +1394,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "308cb1597d2bd1216a02f486fa28ee173b4159f2fe1a88b6863cfd1ba31b1635",
+            "sha256": "3f21dbedeae5525f362c0f6f1cf1277f1711eb3544ce22d8f626d8345d18633e",
             "type": "snapshot",
             "version": "23w05a"
         },
@@ -1401,7 +1407,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "4628b4f460735d43ad0fc030a5b524e875ed31f16b9eebf7370d6ce61aa69d36",
+            "sha256": "1a037f0b2e5ddbaf8e2e1908f555a8b63e7d1c8e106690bbc4cb561c9d4b7251",
             "type": "snapshot",
             "version": "23w04a"
         },
@@ -1414,7 +1420,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "594de5f30925f83fae8ed55e95798d12f9f9869ba7b9f02d4a54675f18c6100a",
+            "sha256": "1fa1f9d296cc9ce33d7fa2ea33561524eb40ace967e4230514fa346788d7aa32",
             "type": "snapshot",
             "version": "23w03a"
         },
@@ -1427,7 +1433,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "c2c5762b6dddd7bbea656a9fd9b6ba13e4e3988eab12afa127066cc0f3df87e5",
+            "sha256": "63b7ef7c3a68e18d88ea0508f841188f933f8ca2604df2ddc0c8a8791f65bf8d",
             "type": "release",
             "version": "1.19.3"
         },
@@ -1440,7 +1446,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "a89253d0451ed383a106843bd6ab2e89862acdccd99e7d47494f79c8cd057c72",
+            "sha256": "34f964b455c5f4925c6746fbbd27f56411e901aed0f8f6fa991ccbf88addac6f",
             "type": "snapshot",
             "version": "1.19.3-rc3"
         },
@@ -1453,7 +1459,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "5899c225789543cacbd767748e2cdacfa545e81c12fca7a247cfcd2ad5e3dc77",
+            "sha256": "db413179af0a3078006c152fdc34d5943f9dce6b347fa37777fc4b35babcc8de",
             "type": "snapshot",
             "version": "1.19.3-rc2"
         },
@@ -1466,7 +1472,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "2f7094720a3ce222c291dbce812b5151bbbf5d849b4b4b2ac0248f4c55c01fed",
+            "sha256": "b5ae2e41303c5f2bbf5182e714fc4f5a1614966da3b40ff050bd0adc5b8aa25b",
             "type": "snapshot",
             "version": "1.19.3-rc1"
         },
@@ -1479,7 +1485,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "ff3dba9d39a49d9caa9f3b612a8944b56b8153e71d4f7bb926954b3e4380ada2",
+            "sha256": "16eaaaeb6e11ff9570e560bdd11be3243447f3b54e4daba2a29782861bb2c874",
             "type": "snapshot",
             "version": "1.19.3-pre3"
         },
@@ -1492,7 +1498,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "e89378444984e737fb4188c96080138de6671461adc09367a7521de54fc3d974",
+            "sha256": "bef3c2edccb72b9d8c48325d5369777aee60ccdda37c2f537e3d49a0d5c8b3af",
             "type": "snapshot",
             "version": "1.19.3-pre2"
         },
@@ -1505,7 +1511,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "d0aa912b8515d4b7d8cfdc00cc22adf71b53ac298d588ac7c392a21ae8be8dff",
+            "sha256": "3370c5d9fb35c92e791b06d153ea4fe20c54439a7d0b1621b7b25aaa1477f4bb",
             "type": "snapshot",
             "version": "1.19.3-pre1"
         },
@@ -1518,7 +1524,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "97d18125d7ba8a8e003fbf0cb5fc2f09d42d8a548de497873cdfe97c44b7c362",
+            "sha256": "89e9988b78ee8b456414c89ed6c2cee3796b6906fa9b882dfd4d76d6d920e6d6",
             "type": "snapshot",
             "version": "22w46a"
         },
@@ -1531,7 +1537,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "fb7e5611085b8ddc0ff5466eebda38a89fa517545942302ccffadaa31458dfe1",
+            "sha256": "bda0f57158eed8ad043f6cb3b08bdb2c6ef26ca88749e45b95f0d938097edc3d",
             "type": "snapshot",
             "version": "22w45a"
         },
@@ -1544,7 +1550,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "f8c49e45d18089196bb924e36b26e135c667f4c0b1e6525a14ec7778f4b4ac00",
+            "sha256": "1c1922c5c05996f91ab170405c8f78c1c3338d2fb1c1c03899ba73285873d752",
             "type": "snapshot",
             "version": "22w44a"
         },
@@ -1557,7 +1563,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "c86418937e555d0d4bf46ed16cb8eaa7db79dc0a2562c8c75cbb9ad0ba65c3fb",
+            "sha256": "9e75dbee9a247256266b6e2b1b53ea51b493ce224b4589ae9b4c13fde3590af6",
             "type": "snapshot",
             "version": "22w43a"
         },
@@ -1570,7 +1576,7 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "sha256": "087ec401cfc58658fcbf7c260f2f7d0b69bd0d20b08e18ad8cb16e8a4ea9c687",
+            "sha256": "2a22f308b9a1b14f37402695c051162336a9802b2201d0a6162379d8e0309836",
             "type": "snapshot",
             "version": "22w42a"
         },
