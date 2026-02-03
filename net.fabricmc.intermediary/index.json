@@ -200,6 +200,20 @@
             "volatile": true
         },
         {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
+                    "equals": "26.1-snapshot-6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0a406124c527f7733adae11a240a80ead8ac28fd72e503fdf6f5f75b73f8d7ec",
+            "type": "release",
+            "version": "26.1-snapshot-6",
+            "volatile": true
+        },
+        {
             "releaseTime": "2025-10-30T16:49:06+00:00",
             "requires": [
                 {
