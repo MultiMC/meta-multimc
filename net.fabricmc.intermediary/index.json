@@ -735,6 +735,20 @@
             "releaseTime": "2025-10-30T16:49:06+00:00",
             "requires": [
                 {
+                    "equals": "26.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6c8e995c1dcc9437d13fa274a91cb3b6036adf3eaf1ddfdd7b45b86face9c135",
+            "type": "release",
+            "version": "26.2",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
                     "equals": "1.21.11-pre4_unobfuscated",
                     "uid": "net.minecraft"
                 }
