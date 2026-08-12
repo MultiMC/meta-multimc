@@ -414,6 +414,20 @@
             "releaseTime": "2025-10-30T16:49:06+00:00",
             "requires": [
                 {
+                    "equals": "26.3-snapshot-8",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8eb47da4bcbcd63ceb3abaf5f36dfb31a143323516074dfae1ec3f9c6356bf35",
+            "type": "release",
+            "version": "26.3-snapshot-8",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
                     "equals": "26.1-snapshot-6",
                     "uid": "net.minecraft"
                 }
