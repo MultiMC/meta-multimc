@@ -122,13 +122,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/authlib/10.0.76/authlib-10.0.76.jar",
-                    "sha1": "c47995657c2a278b8d2e584115b1d745f051d53a",
-                    "size": 152727,
-                    "url": "https://libraries.minecraft.net/com/mojang/authlib/10.0.76/authlib-10.0.76.jar"
+                    "path": "com/mojang/authlib/10.0.77/authlib-10.0.77.jar",
+                    "sha1": "add8754cda96cf0cd840441632875648836f8a71",
+                    "size": 152645,
+                    "url": "https://libraries.minecraft.net/com/mojang/authlib/10.0.77/authlib-10.0.77.jar"
                 }
             },
-            "name": "com.mojang:authlib:10.0.76"
+            "name": "com.mojang:authlib:10.0.77"
         },
         {
             "downloads": {
@@ -166,24 +166,24 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/jtracy/1.0.37/jtracy-1.0.37.jar",
-                    "sha1": "a3fb649b2e2b2288d2978f0b0bc3d83f62809d1e",
-                    "size": 12876,
-                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.0.37/jtracy-1.0.37.jar"
+                    "path": "com/mojang/jtracy/1.14.38/jtracy-1.14.38.jar",
+                    "sha1": "cc2ad81342001b4281c305a298d7f50332354058",
+                    "size": 14292,
+                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38.jar"
                 }
             },
-            "name": "com.mojang:jtracy:1.0.37"
+            "name": "com.mojang:jtracy:1.14.38"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-linux.jar",
-                    "sha1": "e1b4395227af41195da9e2ead13c48ee0b7d31cd",
-                    "size": 193951,
-                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-linux.jar"
+                    "path": "com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-linux.jar",
+                    "sha1": "d2433300f8a4e99595d513546d19ecddc3eaa15e",
+                    "size": 256636,
+                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-linux.jar"
                 }
             },
-            "name": "com.mojang:jtracy:1.0.37:natives-linux",
+            "name": "com.mojang:jtracy:1.14.38:natives-linux",
             "rules": [
                 {
                     "action": "allow",
@@ -196,13 +196,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-macos.jar",
-                    "sha1": "a99fcb63b72fb623534d0ceb71bda4bed9b55b4c",
-                    "size": 179562,
-                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-macos.jar"
+                    "path": "com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-macos.jar",
+                    "sha1": "5ef8d24352733e915e35e8c39efb099520bcabcf",
+                    "size": 228428,
+                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-macos.jar"
                 }
             },
-            "name": "com.mojang:jtracy:1.0.37:natives-macos",
+            "name": "com.mojang:jtracy:1.14.38:natives-macos",
             "rules": [
                 {
                     "action": "allow",
@@ -215,13 +215,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-macos-arm64.jar",
-                    "sha1": "c8e971da5150aa33283c5bf4097154c0da554fb9",
-                    "size": 193249,
-                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-macos-arm64.jar"
+                    "path": "com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-macos-arm64.jar",
+                    "sha1": "e5cad241e2c018c39d2b5e767e201ead40f93309",
+                    "size": 230827,
+                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-macos-arm64.jar"
                 }
             },
-            "name": "com.mojang:jtracy:1.0.37:natives-macos-arm64",
+            "name": "com.mojang:jtracy:1.14.38:natives-macos-arm64",
             "rules": [
                 {
                     "action": "allow",
@@ -234,13 +234,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-windows.jar",
-                    "sha1": "6ff6d710fd4ffd470f2799653fab57e27fed0c9d",
-                    "size": 46763,
-                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.0.37/jtracy-1.0.37-natives-windows.jar"
+                    "path": "com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-windows.jar",
+                    "sha1": "3e26b44141ba853b45f734f643a6a8ac8b8fc259",
+                    "size": 49885,
+                    "url": "https://libraries.minecraft.net/com/mojang/jtracy/1.14.38/jtracy-1.14.38-natives-windows.jar"
                 }
             },
-            "name": "com.mojang:jtracy:1.0.37:natives-windows",
+            "name": "com.mojang:jtracy:1.14.38:natives-windows",
             "rules": [
                 {
                     "action": "allow",
@@ -1637,131 +1637,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2.jar",
-                    "sha1": "bc8666e427ec6bec2626b8297614827aa53f83bc",
-                    "size": 15926,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2"
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-linux.jar",
-                    "sha1": "6155c889f09ab96001cc0f08c7c63cd7091994e6",
-                    "size": 45102,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-linux.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-linux",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos.jar",
-                    "sha1": "a130b005a3cfef5482c511169d10dae2bd94f890",
-                    "size": 37153,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-macos",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos-arm64.jar",
-                    "sha1": "f17e62c78e20a7e50ea5e2b5e7d87d94322d1e3e",
-                    "size": 34318,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos-arm64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-macos-arm64",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows.jar",
-                    "sha1": "faa1a75dd8ac99fd85368ee756fd7a40a72337dd",
-                    "size": 131223,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-windows",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-arm64.jar",
-                    "sha1": "73e97490d5d95c3bb4bbb58daf5921a49aa08226",
-                    "size": 114049,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-arm64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-windows-arm64",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "path": "org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-x86.jar",
-                    "sha1": "0fba10dde9c73c7a25c3c0d9151983025948a719",
-                    "size": 113385,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2:natives-windows-x86",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "path": "org/lwjgl/lwjgl-vma/3.4.2/lwjgl-vma-3.4.2.jar",
                     "sha1": "9c0b277d9028721618f3ed7de68b7ae9f85b4474",
                     "size": 110268,
@@ -2074,17 +1949,17 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "dd75cb26bf71099ae196080606dbaaf6eb77d59a",
-                "size": 41115757,
-                "url": "https://piston-data.mojang.com/v1/objects/dd75cb26bf71099ae196080606dbaaf6eb77d59a/client.jar"
+                "sha1": "4815359f45cf77c9042296d98acb22a95df6a58a",
+                "size": 41156766,
+                "url": "https://piston-data.mojang.com/v1/objects/4815359f45cf77c9042296d98acb22a95df6a58a/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:26.3-snapshot-8:client"
+        "name": "com.mojang:minecraft:26.3-snapshot-9:client"
     },
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --versionType ${version_type}",
     "name": "Minecraft",
-    "releaseTime": "2026-08-12T09:39:37+00:00",
+    "releaseTime": "2026-08-17T11:46:16+00:00",
     "type": "snapshot",
     "uid": "net.minecraft",
-    "version": "26.3-snapshot-8"
+    "version": "26.3-snapshot-9"
 }
