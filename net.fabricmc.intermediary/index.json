@@ -553,6 +553,20 @@
             "releaseTime": "2025-10-30T16:49:06+00:00",
             "requires": [
                 {
+                    "equals": "26.3-rc-3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6ff88fbe273a0a6b17ebb63e5c6797a7aa6d726a7e61a0f1768dca00c2df2d9a",
+            "type": "release",
+            "version": "26.3-rc-3",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
                     "equals": "26.1-snapshot-1",
                     "uid": "net.minecraft"
                 }
@@ -994,6 +1008,20 @@
             "sha256": "69b2c2cee50c342d61569f1204ce69ac52fb3709e9c7864379e25b76fb44e162",
             "type": "release",
             "version": "26.3-rc-2",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2025-10-30T16:49:06+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "15395d99f60420e85fcd913f694f02284e081251eee439612c4b2a91f6c8f209",
+            "type": "release",
+            "version": "26.3",
             "volatile": true
         },
         {
