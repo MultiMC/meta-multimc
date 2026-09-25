@@ -4,6 +4,61 @@
     "uid": "net.neoforged",
     "versions": [
         {
+            "releaseTime": "2026-09-25T17:10:33.886340+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "207dce0b15cff2771f7b99b32606807daf6c07ba0f7c0e943256c94fa0bf2a44",
+            "version": "26.3.0.21-beta"
+        },
+        {
+            "releaseTime": "2026-09-25T17:09:59.047754+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "0b7e2b5c3fa150c54aecde985ad3182353709d847eb8519f8d27f9c192a46568",
+            "version": "26.3.0.20-beta"
+        },
+        {
+            "releaseTime": "2026-09-25T17:08:44.735292+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "b415e4c5decbb5e10b59e443b7a69e2664df7daeddb15566d359ad6f240f74ef",
+            "version": "26.3.0.19-beta"
+        },
+        {
+            "releaseTime": "2026-09-25T17:08:41.411142+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "eee3eb5856a26bc3b79ec7d4712ad57d9953fa1df15f5ebb9a1bf95941481a98",
+            "version": "26.3.0.18-beta"
+        },
+        {
+            "releaseTime": "2026-09-25T17:06:07.874525+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "5124d5c45650e5b9aae70e3e7c2beb88743f68440e6effedba8eee8b7dc6e0c1",
+            "version": "26.3.0.17-beta"
+        },
+        {
             "releaseTime": "2026-09-23T18:33:41.677182+00:00",
             "requires": [
                 {
