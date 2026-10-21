@@ -4,6 +4,18 @@
     "uid": "net.minecraftforge",
     "versions": [
         {
+            "recommended": true,
+            "releaseTime": "2026-10-21T18:04:06+00:00",
+            "requires": [
+                {
+                    "equals": "26.3",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f915d6f010ba3dbe31a5ee8b3cef6197d13c679fb69234aa15382a9f0a0d5548",
+            "version": "66.1.0"
+        },
+        {
             "releaseTime": "2026-10-16T20:42:28+00:00",
             "requires": [
                 {
@@ -15,6 +27,7 @@
             "version": "66.0.13"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T03:43:10+00:00",
             "requires": [
                 {
@@ -26,6 +39,7 @@
             "version": "49.2.13"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T03:34:14+00:00",
             "requires": [
                 {
@@ -37,6 +51,7 @@
             "version": "50.2.14"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T03:24:51+00:00",
             "requires": [
                 {
@@ -48,6 +63,7 @@
             "version": "52.1.20"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T03:16:38+00:00",
             "requires": [
                 {
@@ -59,6 +75,7 @@
             "version": "53.1.16"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T03:07:43+00:00",
             "requires": [
                 {
@@ -70,6 +87,7 @@
             "version": "54.1.22"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:58:02+00:00",
             "requires": [
                 {
@@ -81,6 +99,7 @@
             "version": "55.1.18"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:48:25+00:00",
             "requires": [
                 {
@@ -92,6 +111,7 @@
             "version": "58.1.26"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:40:09+00:00",
             "requires": [
                 {
@@ -103,6 +123,7 @@
             "version": "60.1.18"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:31:46+00:00",
             "requires": [
                 {
@@ -114,6 +135,7 @@
             "version": "61.2.4"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:24:29+00:00",
             "requires": [
                 {
@@ -125,6 +147,7 @@
             "version": "64.1.5"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-15T02:18:55+00:00",
             "requires": [
                 {
@@ -224,6 +247,7 @@
             "version": "49.2.12"
         },
         {
+            "recommended": true,
             "releaseTime": "2026-10-13T16:25:27+00:00",
             "requires": [
                 {
@@ -664,7 +688,6 @@
             "version": "65.1.1"
         },
         {
-            "recommended": true,
             "releaseTime": "2026-08-05T18:20:47+00:00",
             "requires": [
                 {
@@ -775,7 +798,6 @@
             "version": "61.1.13"
         },
         {
-            "recommended": true,
             "releaseTime": "2026-07-27T20:44:15+00:00",
             "requires": [
                 {
@@ -809,7 +831,6 @@
             "version": "64.0.15"
         },
         {
-            "recommended": true,
             "releaseTime": "2026-07-27T20:05:24+00:00",
             "requires": [
                 {
@@ -1712,7 +1733,6 @@
             "version": "53.1.9"
         },
         {
-            "recommended": true,
             "releaseTime": "2026-03-17T20:25:11+00:00",
             "requires": [
                 {
@@ -2428,7 +2448,6 @@
             "version": "58.1.9"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-11-19T23:14:49+00:00",
             "requires": [
                 {
@@ -2682,7 +2701,6 @@
             "version": "60.0.1"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-10-09T22:56:29+00:00",
             "requires": [
                 {
@@ -2980,7 +2998,6 @@
             "version": "49.2.1"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-08-27T19:22:36+00:00",
             "requires": [
                 {
@@ -2992,7 +3009,6 @@
             "version": "58.1.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-08-27T19:10:09+00:00",
             "requires": [
                 {
@@ -3785,7 +3801,6 @@
             "version": "54.1.3"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-03-05T01:27:48+00:00",
             "requires": [
                 {
@@ -3821,7 +3836,6 @@
             "version": "45.4.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-03-05T00:24:28+00:00",
             "requires": [
                 {
@@ -3833,7 +3847,6 @@
             "version": "50.2.0"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-03-05T00:14:00+00:00",
             "requires": [
                 {
@@ -4021,7 +4034,6 @@
             "version": "47.3.34"
         },
         {
-            "recommended": true,
             "releaseTime": "2025-03-02T16:19:38+00:00",
             "requires": [
                 {
