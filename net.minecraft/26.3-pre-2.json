@@ -6,10 +6,10 @@
     ],
     "assetIndex": {
         "id": "34",
-        "sha1": "7b1c46ecb5292e80d36be4ccd18118f3d7b555aa",
+        "sha1": "52621d6c5cb22c73d3f4203b931ce8e5a1dbdf5d",
         "size": 597235,
-        "totalSize": 487865386,
-        "url": "https://piston-meta.mojang.com/v1/packages/7b1c46ecb5292e80d36be4ccd18118f3d7b555aa/34.json"
+        "totalSize": 487866336,
+        "url": "https://piston-meta.mojang.com/v1/packages/52621d6c5cb22c73d3f4203b931ce8e5a1dbdf5d/34.json"
     },
     "formatVersion": 1,
     "libraries": [
@@ -638,24 +638,24 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0.jar",
-                    "sha1": "134bc57b83e78a7f954a0f078093e319739d42ea",
-                    "size": 469281,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3.jar",
+                    "sha1": "f02eba597e255d55fcc1394c542d8b431dc267f1",
+                    "size": 469282,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0"
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3"
         },
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-linux.jar",
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-linux.jar",
                     "sha1": "f20ae220999240d484896d839694b02c2a655608",
                     "size": 1423204,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-linux.jar"
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-linux.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-linux",
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-linux",
             "rules": [
                 {
                     "action": "allow",
@@ -668,13 +668,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-macos.jar",
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-macos.jar",
                     "sha1": "6a46815640d9ce43533200986a330642a96e9590",
                     "size": 1225020,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-macos.jar"
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-macos.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-macos",
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-macos",
             "rules": [
                 {
                     "action": "allow",
@@ -687,13 +687,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-macos-arm64.jar",
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-macos-arm64.jar",
                     "sha1": "95ef1d3420179187f0b5e1ba947329b539e73412",
                     "size": 1125234,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-macos-arm64.jar"
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-macos-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-macos-arm64",
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-macos-arm64",
             "rules": [
                 {
                     "action": "allow",
@@ -706,13 +706,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-windows.jar",
-                    "sha1": "f85d0f5acaa594f9e93d657f8feff85d6a427b6a",
-                    "size": 1190826,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-windows.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows.jar",
+                    "sha1": "8c781cc03be5489c230057f1a95cd44e87cb826e",
+                    "size": 1190827,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-windows",
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-windows",
             "rules": [
                 {
                     "action": "allow",
@@ -725,13 +725,13 @@
         {
             "downloads": {
                 "artifact": {
-                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-windows-arm64.jar",
-                    "sha1": "5f475c76490bb368f235017985d8d9dc6b5b5121",
-                    "size": 1043884,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0/lwjgl-freetype-3.4.3-mojang-2.15.0-natives-windows-arm64.jar"
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows-arm64.jar",
+                    "sha1": "ce3674534e08c419add0770dd3f3fe92aed3dd58",
+                    "size": 1043874,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows-arm64.jar"
                 }
             },
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-windows-arm64",
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-windows-arm64",
             "rules": [
                 {
                     "action": "allow",
@@ -742,8 +742,15 @@
             ]
         },
         {
-            "downloads": {},
-            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0:natives-windows-x86",
+            "downloads": {
+                "artifact": {
+                    "path": "org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows-x86.jar",
+                    "sha1": "6dd9f54c7dda9d56073f53cf528b928b6b970912",
+                    "size": 1000784,
+                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-freetype/3.4.3-mojang-2.15.0.3/lwjgl-freetype-3.4.3-mojang-2.15.0.3-natives-windows-x86.jar"
+                }
+            },
+            "name": "org.lwjgl:lwjgl-freetype:3.4.3-mojang-2.15.0.3:natives-windows-x86",
             "rules": [
                 {
                     "action": "allow",
